@@ -48,6 +48,14 @@ class Bacteria:
         ["Enterobacter soli", "Pluralibacter gergoviae", "Klebsiella michiganensis",],
     ]
 
+    # Case in-sensitve
+    self.headers = [
+        ["disease", "disease_name", "related_disease",],
+        ["microbe", "microbe_scientific_name", "organism_name"],
+        ["position", "disease_subtype", "location_name",],
+        ["evidence", "tendency", "relationship_name", "qualitative_outcome",],
+    ]
+
   # ph = string/index
   def select_phage(self, ph):
     if ph.isdigit():
@@ -65,24 +73,45 @@ class Bacteria:
       return False
 
   def search_bacteria_in_file(self, file):
-    lines = []
-    with open(file, "r", encoding='utf-8') as content:
-      for line in content:
-        for b in self.bacteria[self.chosen_phage]:
-          if b in line:
-            lines += (str(line.strip()).split('\t'))
+    columns = {}
+    data = {h[0]: [] for h in self.headers}
 
-    return lines
+    with open(file, encoding='utf-8') as f:
+      content = [line.lower() for line in f]
+      #print(f"{content[0]}")
+      for i, h in enumerate(content[0].split('\t')):
+        #print(f"{file} => {h}")
+        for exp_headers in self.headers:
+          if h.strip() in exp_headers:
+            #print(f"{file} => columns[{exp_headers[0]}] = {i}")
+            columns[exp_headers[0]] = i
+
+      if len(list(columns)) != 4:
+        print(f"{file} => {list(columns)}")
+
+      # Skip header
+      content = content[1:]
+
+      for line in content:
+        values = str(line).split('\t')
+        #print(f"microbe: {values[columns[self.headers[1][0]]].strip()}")
+        if values[columns[self.headers[1][0]]].strip() not in self.bacteria[self.chosen_phage]:
+          continue
+        for k, v in columns.items():
+          #print(f"{file} => data[{k}] = {values[v].strip()}")
+          data[k].append(values[v].strip())
+
+    return data
 
   def search_bacteria_in_dir(self, directory):
-    file_and_lines = {}
+    file_and_data = {}
     for root, dirs, files in os.walk(directory):
       for f in files:
-        lines = self.search_bacteria_in_file(path.join(root, f))
-        if len(lines) > 0:
-          file_and_lines.update({ f : lines })
+        data = self.search_bacteria_in_file(path.join(root, f))
+        if len(data) > 0:
+          file_and_data[f] = data
 
-    return file_and_lines
+    return file_and_data
 
 def usage(progname):
   print(f"Usage: {progname} BACTERIOPHAGE[name/index] DATASET_DIRECTORY", file=sys.stderr)
@@ -97,23 +126,24 @@ def main():
   progname, phage_species, dataset_directory = sys.argv[:3]
 
   bact = Bacteria()
-  file_list = []
 
   if not bact.select_phage(phage_species):
     print(f"Invalid phage name/index => {phage_species}\n", file=sys.stderr)
     usage(progname)
 
-  kv = bact.search_bacteria_in_dir(dataset_directory)
+  fdata = bact.search_bacteria_in_dir(dataset_directory)
 
-  for k, v in kv.items():
-    print(f"{k}:\n{v}\n")
+  for filename, data in fdata.items():
+    print(f"{filename}:")
+    for column, content in data.items():
+      print(f"{column} => {content}")
 
 if __name__ == '__main__':
-    try:
-        main()
-    except BrokenPipeError:
-        devnull = os.open(os.devnull, os.O_WRONLY)
-        os.dup2(devnull, sys.stdout.fileno())
-        sys.stdout.flush()
-        sys.stderr.flush()
-        sys.exit(1)
+  try:
+    main()
+  except BrokenPipeError:
+    devnull = os.open(os.devnull, os.O_WRONLY)
+    os.dup2(devnull, sys.stdout.fileno())
+    sys.stdout.flush()
+    sys.stderr.flush()
+    sys.exit(1)
