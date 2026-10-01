@@ -131,7 +131,7 @@ class Bacteria:
     return file_and_data
 
 def usage(progname):
-  print(f"Usage: {progname} BACTERIOPHAGE[name/index] DATASET_DIRECTORY", file=sys.stderr)
+  print(f"Usage: {progname} BACTERIOPHAGE[name/index] DATASET[DIRECTORY/FILE]", file=sys.stderr)
   for i, v in enumerate(Bacteria().phages):
     print(f"{i} => {v}")
   sys.exit(1)
