@@ -1,0 +1,9 @@
+**/target/**
+**/*.jpg
+**/*.png
+**/*.ignore
+**/*.pdf
+**/*.out
+**/build/**
+
+**/.DS_Store

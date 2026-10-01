@@ -9,80 +9,126 @@ from os import path
 
 class Bacteria:
   def __init__(self):
-    self.chosen_phage = -1
-    self.patterns = [
-        [ "HNH"         , "Phage_portal", "Phage_capsid", ],
-        [ "Terminase_1" , "Phage_portal", "Phage_capsid", ],
-        [ "Phage_capsid", "Phage_portal", "Terminase_1",  ],
+    self.chosen_phage = ""
+    self.patterns = {
+        "hnh"                                       : ["lactobacillus phage sha1",],
+        "terminase_1, phage_portal, phage_capsid"   : [
+            "bacteriophage sp",
+            "klebsiella phage kpp5665-2",
+            "klebsiella phage st16",
+            "klebsiella phage st13",
+            "enterobacteria phage sfi",
+            "shigella phage sfii",
+            "shigella phage sfiv",
+            "salmonella phage st64b",
+            "enterobacteria phage mep235",
+            "escherichia phage henu7",
+            "uc phage clone 7s_14",
+            "uc phage clone 2ax_6",
+        ],
+        "phage_capsid, phage_portal, terminase_1"   : ["klebsiella phage st846", "klebsiella phage st13",],
+    }
+    self.phages = {
+        "lactobacillus phage sha1"      : ["pediococcus pentosaceus",],
+        "bacteriophage sp"              : ["latilactobacillus curvatus", "latilactobacillus sakei",],
+        "klebsiella phage kpp5665-2"    : ["pantoea vagans", "citrobacter freundii",],
+        "klebsiella phage st16"         : ["pantoea vagans", "citrobacter freundii",],
+        "klebsiella phage st846"        : ["citrobacter braakii", "citrobacter tructae",],
+        "klebsiella phage st13"         : ["citrobacter amalonaticus", "enterobacter hormaechei", "salmonella enterica",],
+        "enterobacteria phage sfi"      : ["escherichia albertii",],
+        "shigella phage sfii"           : ["escherichia albertii",],
+        "shigella phage sfiv"           : ["escherichia albertii",],
+        "salmonella phage st64b"        : ["escherichia albertii",],
+        "enterobacteria phage mep235"   : ["cronobacter sakazakii",],
+        "escherichia phage henu7"       : ["enterobacter soli", "pluralibacter gergoviae", "klebsiella michiganensis",],
+        "uc phage clone 7s_14"          : ["enterobacter soli", "pluralibacter gergoviae", "klebsiella michiganensis",],
+        "uc phage clone 2ax_6"          : ["enterobacter soli", "pluralibacter gergoviae", "klebsiella michiganensis",],
+    }
+    self.bacteria_families = {
+        "latilactobacillus"   : ["latilactobacillus curvatus", "latilactobacillus sakei",],
+        "pediococcus"         : ["pediococcus pentosaceus",],
+        "pantoea"             : ["pantoea vagans",],
+        "citrobacter freundii": ["citrobacter freundii", "citrobacter braakii",],
+        "citrobacter"         : ["citrobacter tructae", "citrobacter amalonaticus",],
+        "enterobacter"        : ["enterobacter hormaechei", "enterobacter soli",],
+        "salmonella"          : ["salmonella enterica",],
+        "escherichia"         : ["escherichia albertii",],
+        "pluralibacter"       : ["pluralibacter gergoviae",],
+        "cronobacter"         : ["cronobacter sakazakii",],
+        "klebsiella"          : ["klebsiella michiganensis",],
+    }
+
+    # Case in-sensitve
+    self.headers = [
+        ["disease", "disease_name", "related_disease",],
+        ["microbe", "microbe_scientific_name", "organism_name"],
+        ["position", "disease_type_name", "location_name",],
+        ["evidence", "tendency", "relationship_name", "qualitative_outcome",],
     ]
-    self.phages = [
-        "Lactobacillus phage Sha1",
-        "Bacteriophage sp",
-        "Klebsiella phage KPP5665-2",
-        "Klebsiella phage ST16",
-        "Klebsiella phage ST846",
-        "Klebsiella phage ST13",
-        "Enterobacteria phage SfI",
-        "Shigella phage SfII",
-        "Shigella phage SfIV",
-        "Salmonella phage ST64B",
-        "Enterobacteria phage mEp235",
-        "Escherichia phage Henu7",
-        "UC phage clone 7S_14",
-        "UC phage clone 2AX_6",
-    ]
-    self.bacteria = [
-        ["Pediococcus pentosaceus",],
-        ["Latilactobacillus curvatus", "Latilactobacillus sakei",],
-        ["Pantoea vagans", "Citrobacter freundii",],
-        ["Pantoea vagans", "Citrobacter freundii",],
-        ["Citrobacter braakii", "Citrobacter tructae",],
-        ["Citrobacter amalonaticus", "Enterobacter hormaechei", "Salmonella enterica",],
-        ["Escherichia albertii",],
-        ["Escherichia albertii",],
-        ["Escherichia albertii",],
-        ["Escherichia albertii",],
-        ["Cronobacter sakazakii",],
-        ["Enterobacter soli", "Pluralibacter gergoviae", "Klebsiella michiganensis",],
-        ["Enterobacter soli", "Pluralibacter gergoviae", "Klebsiella michiganensis",],
-        ["Enterobacter soli", "Pluralibacter gergoviae", "Klebsiella michiganensis",],
+
+    self.output_header = [
+        "Bacterial Species",
+        "Genomic Pattern",
+        "Connected Phage",
+        "Human Disease",
+        "Disease Category",
+        "Abundance Change",
+        "Source Database",
     ]
 
   # ph = string/index
   def select_phage(self, ph):
     if ph.isdigit():
-      self.chosen_phage = int(ph)
-      if self.chosen_phage < 0 or self.chosen_phage >= len(self.phages):
+      idx = int(ph)
+      if idx < 0 or idx >= len(self.phages):
         return False
 
+      self.chosen_phage = list(self.phages)[idx]
       return True
     else:
-      for i, p in enumerate(self.phages):
-        if ph == p:
-          self.chosen_phage = i
-          return True
+      if ph.lower() in list(self.phages):
+        self.chosen_phage = ph.lower()
+        return True
 
       return False
 
   def search_bacteria_in_file(self, file):
-    lines = []
-    with open(file, "r", encoding='utf-8') as content:
-      for line in content:
-        for b in self.bacteria[self.chosen_phage]:
-          if b in line:
-            lines += (str(line.strip()).split('\t'))
+    columns = {h[0]: -1 for h in self.headers}
+    data    = []
 
-    return lines
+    with open(file, encoding='utf-8') as f:
+      content = [line.lower() for line in f]
+      for i, h in enumerate(content[0].split('\t')):
+        for header in self.headers:
+          if h.strip() in header:
+              columns[header[0]] = i
+
+      # Skip header
+      content = content[1:]
+
+      for line in content:
+        values = str(line).split('\t')
+        microbe = values[columns["microbe"]].strip()
+        if len(microbe) <= 0:
+          continue
+
+        #print(f"{microbe} ==? {self.phages[self.chosen_phage]}")
+        #print(f"{microbe} ==? {list(self.bacteria_families)}")
+        if microbe not in self.phages[self.chosen_phage] and microbe not in list(self.bacteria_families):
+          continue
+        data.append([values[x].strip() for x in columns.values()])
+
+    return data
 
   def search_bacteria_in_dir(self, directory):
-    file_and_lines = {}
+    file_and_data = {}
     for root, dirs, files in os.walk(directory):
       for f in files:
-        lines = self.search_bacteria_in_file(path.join(root, f))
-        if len(lines) > 0:
-          file_and_lines.update({ f : lines })
+        data = self.search_bacteria_in_file(path.join(root, f))
+        if len(data) > 0:
+          file_and_data[f] = data
 
-    return file_and_lines
+    return file_and_data
 
 def usage(progname):
   print(f"Usage: {progname} BACTERIOPHAGE[name/index] DATASET_DIRECTORY", file=sys.stderr)
@@ -94,26 +140,58 @@ def main():
   if(len(sys.argv) < 3):
     usage(sys.argv[0])
 
-  progname, phage_species, dataset_directory = sys.argv[:3]
+  progname, phage_species, dataset = sys.argv[:3]
 
   bact = Bacteria()
-  file_list = []
 
   if not bact.select_phage(phage_species):
     print(f"Invalid phage name/index => {phage_species}\n", file=sys.stderr)
     usage(progname)
 
-  kv = bact.search_bacteria_in_dir(dataset_directory)
+  if path.isdir(dataset):
+    dir_data = bact.search_bacteria_in_dir(dataset)
+    for filename, data in dir_data.items():
+      for col in bact.output_header:
+        print(col, end='\t')
+      print()
 
-  for k, v in kv.items():
-    print(f"{k}:\n{v}\n")
+      for data_row_list in data:
+        print(data_row_list[1], end='\t')
+        for k, v in bact.patterns.items():
+          if bact.chosen_phage in v:
+            print(k, end='\t')
+            break
+        print(bact.chosen_phage, end='\t')
+        print(data_row_list[0], end='\t')
+        print(data_row_list[2], end='\t')
+        print(data_row_list[3], end='\t')
+        print(dataset)
+        print('\n')
+  else:
+    file_data = bact.search_bacteria_in_file(dataset)
+    for col in bact.output_header:
+      print(col, end='\t')
+    print()
+
+    for data_row_list in file_data:
+      print(data_row_list[1], end='\t')
+      for k, v in bact.patterns.items():
+        if bact.chosen_phage in v:
+          print(k, end='\t')
+          break
+      print(bact.chosen_phage, end='\t')
+      print(data_row_list[0], end='\t')
+      print(data_row_list[2], end='\t')
+      print(data_row_list[3], end='\t')
+      print(dataset)
+      print()
 
 if __name__ == '__main__':
-    try:
-        main()
-    except BrokenPipeError:
-        devnull = os.open(os.devnull, os.O_WRONLY)
-        os.dup2(devnull, sys.stdout.fileno())
-        sys.stdout.flush()
-        sys.stderr.flush()
-        sys.exit(1)
+  try:
+    main()
+  except BrokenPipeError:
+    devnull = os.open(os.devnull, os.O_WRONLY)
+    os.dup2(devnull, sys.stdout.fileno())
+    sys.stdout.flush()
+    sys.stderr.flush()
+    sys.exit(1)
