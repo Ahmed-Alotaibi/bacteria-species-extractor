@@ -165,7 +165,6 @@ def main():
         print(data_row_list[2], end='\t')
         print(data_row_list[3], end='\t')
         print(filename)
-        print('\n')
   else:
     file_data = bact.search_bacteria_in_file(dataset)
     for col in bact.output_header:
@@ -183,7 +182,6 @@ def main():
       print(data_row_list[2], end='\t')
       print(data_row_list[3], end='\t')
       print(dataset)
-      print()
 
 if __name__ == '__main__':
   try:
