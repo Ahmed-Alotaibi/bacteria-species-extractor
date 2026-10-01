@@ -1,0 +1,333 @@
+Bacterial Species	Genomic Pattern	Connected Phage	Human Disease	Disease Category	Abundance Change	Source Database	
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	necrotizing enterocolitis	gastrointestinal tract	increase	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	necrotizing enterocolitis	gastrointestinal tract	decrease	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	systemic inflammatory response syndrome	gastrointestinal tract	decrease	HMDAD.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+pantoea	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+pantoea	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia albertii	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	diarrhea	other	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alzheimers disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	preeclampsia	placenta	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hiv infection	other	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pouchitis	gastrointestinal tract	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	gastroenteritis	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hiv infection	other	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hepatitis c infection	gastrointestinal tract	increase	MicroPhenoDB.txt
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hiv infection	other	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hypertension	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	sjogren syndrome	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hirschsprung disease - nail hypoplasia - dysmorphism	gastrointestinal tract	increase	MicroPhenoDB.txt
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hypertension	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	celiac disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB.txt
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	celiac disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	systemic lupus erythematosus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	primary biliary cirrhosis	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	non-alcoholic fatty liver disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	cirrhosis of liver	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hepatic vein thrombosis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	transient ischemic attack	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	chronic obstructive pulmonary disease	respiratory tract	decrease	MicroPhenoDB.txt
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	necrotizing enterocolitis	gastrointestinal tract	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal adenocarcinoma	other	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson's disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	chronic rhinosinusitis	auditory meatus	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	otitis media	nasal cavity	increase	MicroPhenoDB.txt
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	interstitial cystitis	urinary tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	sclerosing cholangitis	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	atopic eczema	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	congenital short bowel syndrome	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	asthma	respiratory tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	atherosclerosis	gastrointestinal tract	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hiv infection	cervix	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	necrotizing enterocolitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	bacteria vaginosis	cervix	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	oligoasthenoteratozoospermia	genitals	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pouchitis	gastrointestinal tract	increase	MicroPhenoDB.txt
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 2 diabetes	urinary tract	decrease	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hepatitis c infection	gastrointestinal tract	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	gastric carcinoma	other	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	congenital short bowel syndrome	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hepatitis b infection	gastrointestinal tract	decrease	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal cancer	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	sickle cell anemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+pediococcus	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hepatitis c infection	gastrointestinal tract	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	other	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	gastroenteritis	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	other	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	obesity	gastrointestinal tract	increase	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	other	decrease	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal cancer	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	seminal hyperviscosity	genitals	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	non-alcoholic steatohepatitis	gastrointestinal tract	increase	MicroPhenoDB.txt
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	preeclampsia	placenta	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alcoholic pancreatitis	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	celiac disease	gastrointestinal disorders	increased	Peryton-results.tsv
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	celiac disease	gastrointestinal disorders	increased	Peryton-results.tsv
+pediococcus	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	irritable bowel syndrome	gastrointestinal disorders	present	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	irritable bowel syndrome	gastrointestinal disorders	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	inflammatory bowel diseases	gastrointestinal disorders	decreased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	irritable bowel syndrome	gastrointestinal disorders	decreased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	irritable bowel syndrome	gastrointestinal disorders	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	breast neoplasms	cancers	present	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	decreased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	rectal neoplasms	cancers	decreased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	rectal neoplasms	cancers	decreased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+pantoea	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	mouth neoplasms	cancers	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	mouth neoplasms	cancers	increased	Peryton-results.tsv
+pediococcus	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	mouth neoplasms	cancers	increased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	decreased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	gastrointestinal disorders	decreased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	atherosclerosis	cardiovascular diseases	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	mouth neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	constipation	gastrointestinal disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	liver neoplasms	cancers	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	liver neoplasms	cancers	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	coronary artery disease	cardiovascular diseases	increased	Peryton-results.tsv
+pediococcus	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	stomach neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	stomach neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	thyroid neoplasms	cancers	increased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia albertii	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	stomach neoplasms	cancers	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	liver neoplasms	cancers	increased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pharyngeal neoplasms	cancers	increased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+pantoea	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alzheimer disease	neurodegenerative disorders	decreased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alzheimer disease	neurodegenerative disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alzheimer disease	neurodegenerative disorders	increased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alzheimer disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	stomach neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	lung neoplasms	cancers	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	lung neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	uterine cervical neoplasms	cancers	decreased	Peryton-results.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	esophageal neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson disease	neurodegenerative disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	urinary bladder neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	cirrhosis	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pouchitis	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pouchitis	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pouchitis	lumen	reduced	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	short bowel syndrome	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	lumen	reduced	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alzheimer's disease	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal cancer	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal cancer	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hiv infection	lumen	elevated	disbiome.tsv
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hiv infection	mucosa	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hiv infection	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hiv infection	mucosa	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	sjögren syndrome	lumen	elevated	disbiome.tsv
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	preeclamsia	placenta	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	preeclamsia	placenta	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	bacterial vaginosis	vagina	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	chronic obstructive pulmonary disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	asthma	mucosa	elevated	disbiome.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	interstitial cystitis	bladder	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	irritable bowel syndrome	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 2 diabetes	bladder	reduced	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	rectal carcinoma	colon	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	transient ischemic attack	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	systemic lupus erythematosus	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	primary sclerosing cholangitis-ibd	mucosa	elevated	disbiome.tsv
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	"celiac disease, coaliac disease"	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	"celiac disease, coaliac disease"	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	obesity	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	non alcoholic steatohepatitis	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	non-alcoholic fatty liver disease	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	primary biliary cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	gastroenteritis	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	gastroenteritis	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	primary biliary cholangitis	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ankylosing spondylitis	lumen	reduced	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ankylosing spondylitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ankylosing spondylitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	atherosclerosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hypertension	lumen	elevated	disbiome.tsv
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson's disease	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hiv infection	vagina	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	t2d with hypertension	bladder	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	t2d with hypertension	bladder	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	short bowel syndrome	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	mucosa	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	mucosa	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	ulcerative colitis	mucosa	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	otitis media	nasopharynx	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	chronic alcoholic pancreatitis	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	chronic rhinosinusitis	middle meatus	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hepatitis b	lumen	reduced	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	obesity	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	gastric carcinoma	mucosa	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hepatitis c	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hepatitis c	lumen	elevated	disbiome.tsv
+pediococcus	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hepatitis c	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal cancer	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	sickle cell disease	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	seminal hyperviscosity	uro-genital system	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	oligoasthenoteratozoospermia	uro-genital system	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	budd-chiari syndrome	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic cancer	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic cancer	lumen	elevated	disbiome.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pancreatic cancer	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	infantile eczema	lumen	reduced	disbiome.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	infantile eczema	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	infantile eczema	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	primary sclerosing cholangitis-ibd	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	mucosa	reduced	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hirschsprung's disease	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hypertension	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	cirrhosis	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pelvic inflammatory disease	pelvis	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	schizophrenia	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 1 diabetes	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	rheumatoid arthritis	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	autism spectrum disorders	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	clonorchis sinensis infection	lumen	reduced	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	severe fever with thrombocytopenia syndrome	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	myasthenia gravis	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	pulmonary tubercolosis	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	coronary heart disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hepatocellular cancer	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	microscopic colitis	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	keratitis	lumen	reduced	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	mucosa	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	"hand, foot and mouth disease"	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	systemic sclerosis	lesion	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	primary biliary cholangitis	lumen	elevated	disbiome.tsv
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	primary biliary cholangitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	primary biliary cholangitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	gestational diabetes	cervix	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	gestational diabetes	cervix	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	thyroid carcinoma	lumen	elevated	disbiome.tsv
+pediococcus	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	"celiac disease, coaliac disease"	mucosa	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hiv infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	coronary artery disease	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	non-alcoholic fatty liver disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	clostridium difficile infection	lumen	elevated	disbiome.tsv
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colon adenomas	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	gastric carcinoma	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alcoholism	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alcoholism	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	clostridium difficile infection	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	clostridium difficile infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	juvenile idiopathic arthritis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	necrotizing enterocolitis	lumen	reduced	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	necrotizing enterocolitis	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson's disease	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson's disease	lumen	elevated	disbiome.tsv
+salmonella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	parkinson's disease	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	primary liver cancer	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alzheimer's disease	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alzheimer's disease	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 2 diabetes	bladder	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	chronic kidney disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	obesity	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	autoimmune hepatitis	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	aerobic vaginitis	vagina	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	acne	face	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	atopic dermatitis	skin	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	necrotizing enterocolitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	short bowel syndrome	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	short bowel syndrome	lumen	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	biliary atresia	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal cancer	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	colorectal cancer	mucosa	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	lumen	reduced	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	crohn's disease	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	schizophrenia	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	hypertension	lumen	elevated	disbiome.tsv
+pediococcus	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 2 diabetes	lumen	reduced	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 2 diabetes	mucosa	elevated	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	alcoholism	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	type 2 diabetes	lumen	elevated	disbiome.tsv
+escherichia	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	neisseria gonorrhoeae infection	oropharynx	reduced	disbiome.tsv
+citrobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	chronic kidney disease	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	helicobacter pylori infection	mouth	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	coronary artery disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	frailty	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	salmonella phage st64b	sarcopenia	lumen	elevated	disbiome.tsv
