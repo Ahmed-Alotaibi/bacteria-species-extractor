@@ -150,11 +150,10 @@ def main():
 
   if path.isdir(dataset):
     dir_data = bact.search_bacteria_in_dir(dataset)
+    for col in bact.output_header:
+      print(col, end='\t')
+    print()
     for filename, data in dir_data.items():
-      for col in bact.output_header:
-        print(col, end='\t')
-      print()
-
       for data_row_list in data:
         print(data_row_list[1], end='\t')
         for k, v in bact.patterns.items():
@@ -165,7 +164,7 @@ def main():
         print(data_row_list[0], end='\t')
         print(data_row_list[2], end='\t')
         print(data_row_list[3], end='\t')
-        print(dataset)
+        print(filename)
         print('\n')
   else:
     file_data = bact.search_bacteria_in_file(dataset)
