@@ -114,9 +114,18 @@ class Bacteria:
 
         #print(f"{microbe} ==? {self.phages[self.chosen_phage]}")
         #print(f"{microbe} ==? {list(self.bacteria_families)}")
-        if microbe not in self.phages[self.chosen_phage] and microbe not in self.bacteria_families.values():
+
+        # If it's in the bacteriophage, add it
+        if microbe in self.phages[self.chosen_phage]:
+          data.append([values[x].strip() for x in columns.values()])
           continue
-        data.append([values[x].strip() for x in columns.values()])
+
+        # If not, check that it belongs to the same family of those in the bacteriophage
+        if microbe in list(self.bacteria_families):
+          #print(f"{set(self.bacteria_families[microbe])}", file=sys.stderr)
+          #print(f"{set(self.phages[self.chosen_phage])}", file=sys.stderr)
+          if len(set(self.bacteria_families[microbe]) & set(self.phages[self.chosen_phage])) > 0:
+            data.append([values[x].strip() for x in columns.values()])
 
     return data
 
