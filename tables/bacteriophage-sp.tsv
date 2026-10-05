@@ -1,10 +1,1 @@
 Bacterial Species	Genomic Pattern	Connected Phage	Human Disease	Disease Category	Abundance Change	Source Database	
-pediococcus	hnh	lactobacillus phage sha1	hepatitis c infection	gastrointestinal tract	increase	MicroPhenoDB.txt
-pediococcus pentosaceus	hnh	lactobacillus phage sha1	chronic rhinosinusitis	nasal cavity	decrease	MicroPhenoDB.txt
-pediococcus	hnh	lactobacillus phage sha1	irritable bowel syndrome	gastrointestinal disorders	present	Peryton-results.tsv
-pediococcus	hnh	lactobacillus phage sha1	mouth neoplasms	cancers	increased	Peryton-results.tsv
-pediococcus	hnh	lactobacillus phage sha1	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-pediococcus pentosaceus	hnh	lactobacillus phage sha1	chronic rhinosinusitis	maxillary sinus	reduced	disbiome.tsv
-pediococcus	hnh	lactobacillus phage sha1	hepatitis c	lumen	elevated	disbiome.tsv
-pediococcus	hnh	lactobacillus phage sha1	"celiac disease, coaliac disease"	mucosa	reduced	disbiome.tsv
-pediococcus	hnh	lactobacillus phage sha1	type 2 diabetes	lumen	reduced	disbiome.tsv

@@ -1,152 +1,152 @@
 Bacterial Species	Genomic Pattern	Connected Phage	Human Disease	Disease Category	Abundance Change	Source Database	
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	necrotizing enterocolitis	gastrointestinal tract	decrease	HMDAD.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	systemic inflammatory response syndrome	gastrointestinal tract	decrease	HMDAD.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	hiv infection	other	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	crohn's disease	gastrointestinal tract	decrease	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	hypertension	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	celiac disease	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	systemic lupus erythematosus	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	primary biliary cirrhosis	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	cirrhosis of liver	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	transient ischemic attack	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	parkinson's disease	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	otitis media	nasal cavity	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	atopic eczema	gastrointestinal tract	decrease	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	congenital short bowel syndrome	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	asthma	respiratory tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	atherosclerosis	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	necrotizing enterocolitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	oligoasthenoteratozoospermia	genitals	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	type 2 diabetes	urinary tract	decrease	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal cancer	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	gastroenteritis	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	crohn's disease	other	decrease	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	seminal hyperviscosity	genitals	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	alcoholic pancreatitis	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	celiac disease	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	irritable bowel syndrome	gastrointestinal disorders	increased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	inflammatory bowel diseases	gastrointestinal disorders	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	breast neoplasms	cancers	present	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	crohn disease	gastrointestinal disorders	decreased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	constipation	gastrointestinal disorders	decreased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	liver neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	liver neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	stomach neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	stomach neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	thyroid neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	liver neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	pharyngeal neoplasms	cancers	increased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	alzheimer disease	neurodegenerative disorders	decreased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	stomach neoplasms	cancers	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	lung neoplasms	cancers	decreased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	lung neoplasms	cancers	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	uterine cervical neoplasms	cancers	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	parkinson disease	neurodegenerative disorders	decreased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	urinary bladder neoplasms	cancers	increased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	cirrhosis	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	crohn's disease	lumen	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	irritable bowel syndrome	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal cancer	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	hiv infection	mucosa	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	asthma	mucosa	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	irritable bowel syndrome	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	hypertension	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	type 2 diabetes	bladder	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	transient ischemic attack	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	systemic lupus erythematosus	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	"celiac disease, coaliac disease"	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	primary biliary cirrhosis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	irritable bowel syndrome	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	gastroenteritis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	primary biliary cholangitis	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	ankylosing spondylitis	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	ankylosing spondylitis	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	atherosclerosis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	hypertension	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	parkinson's disease	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	t2d with hypertension	bladder	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	t2d with hypertension	bladder	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	short bowel syndrome	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	otitis media	nasopharynx	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	chronic alcoholic pancreatitis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	seminal hyperviscosity	uro-genital system	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	oligoasthenoteratozoospermia	uro-genital system	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	pancreatic cancer	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	pancreatic cancer	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	infantile eczema	lumen	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	infantile eczema	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	crohn's disease	mucosa	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	hypertension	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	cirrhosis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	schizophrenia	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	type 1 diabetes	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	rheumatoid arthritis	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	clonorchis sinensis infection	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	hepatocellular cancer	lumen	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	microscopic colitis	mucosa	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	keratitis	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	crohn's disease	mucosa	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	primary biliary cholangitis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	gestational diabetes	cervix	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	gestational diabetes	cervix	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	thyroid carcinoma	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	hiv infection	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	coronary artery disease	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	clostridium difficile infection	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	gastric carcinoma	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	alcoholism	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	clostridium difficile infection	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	juvenile idiopathic arthritis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	necrotizing enterocolitis	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	parkinson's disease	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	primary liver cancer	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	type 2 diabetes	bladder	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	chronic kidney disease	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	obesity	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	autoimmune hepatitis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	acne	face	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	atopic dermatitis	skin	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	necrotizing enterocolitis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	short bowel syndrome	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	short bowel syndrome	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	biliary atresia	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal cancer	mucosa	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	colorectal cancer	mucosa	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	crohn's disease	lumen	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	hypertension	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	helicobacter pylori infection	mouth	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	coronary artery disease	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	frailty	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	cirrhosis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 7s_14	sarcopenia	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	necrotizing enterocolitis	gastrointestinal tract	decrease	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	systemic inflammatory response syndrome	gastrointestinal tract	decrease	HMDAD.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	hiv infection	other	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	crohn's disease	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	hypertension	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	celiac disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	systemic lupus erythematosus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	primary biliary cirrhosis	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	cirrhosis of liver	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	transient ischemic attack	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	parkinson's disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	otitis media	nasal cavity	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	atopic eczema	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	congenital short bowel syndrome	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	asthma	respiratory tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	atherosclerosis	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	necrotizing enterocolitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	oligoasthenoteratozoospermia	genitals	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	type 2 diabetes	urinary tract	decrease	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal cancer	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	gastroenteritis	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	crohn's disease	other	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	seminal hyperviscosity	genitals	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	alcoholic pancreatitis	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	celiac disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	irritable bowel syndrome	gastrointestinal disorders	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	inflammatory bowel diseases	gastrointestinal disorders	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	breast neoplasms	cancers	present	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	crohn disease	gastrointestinal disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	constipation	gastrointestinal disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	liver neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	liver neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	stomach neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	stomach neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	thyroid neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	liver neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	pharyngeal neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	alzheimer disease	neurodegenerative disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	stomach neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	lung neoplasms	cancers	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	lung neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	uterine cervical neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	parkinson disease	neurodegenerative disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	urinary bladder neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	cirrhosis	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	crohn's disease	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal cancer	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	hiv infection	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	asthma	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	type 2 diabetes	bladder	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	transient ischemic attack	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	systemic lupus erythematosus	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	"celiac disease, coaliac disease"	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	primary biliary cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	gastroenteritis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	primary biliary cholangitis	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	ankylosing spondylitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	ankylosing spondylitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	atherosclerosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	parkinson's disease	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	t2d with hypertension	bladder	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	t2d with hypertension	bladder	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	otitis media	nasopharynx	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	chronic alcoholic pancreatitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	seminal hyperviscosity	uro-genital system	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	oligoasthenoteratozoospermia	uro-genital system	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	pancreatic cancer	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	pancreatic cancer	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	infantile eczema	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	infantile eczema	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	crohn's disease	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	hypertension	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	schizophrenia	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	type 1 diabetes	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	rheumatoid arthritis	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	clonorchis sinensis infection	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	hepatocellular cancer	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	microscopic colitis	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	keratitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	crohn's disease	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	primary biliary cholangitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	gestational diabetes	cervix	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	gestational diabetes	cervix	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	thyroid carcinoma	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	hiv infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	coronary artery disease	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	clostridium difficile infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	gastric carcinoma	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	alcoholism	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	clostridium difficile infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	juvenile idiopathic arthritis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	necrotizing enterocolitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	parkinson's disease	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	primary liver cancer	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	type 2 diabetes	bladder	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	chronic kidney disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	obesity	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	autoimmune hepatitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	acne	face	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	atopic dermatitis	skin	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	necrotizing enterocolitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	biliary atresia	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal cancer	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	colorectal cancer	mucosa	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	crohn's disease	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	helicobacter pylori infection	mouth	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	coronary artery disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	frailty	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	uc phage clone 2ax_6	sarcopenia	lumen	elevated	disbiome.tsv

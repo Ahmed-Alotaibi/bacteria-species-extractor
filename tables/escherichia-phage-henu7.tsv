@@ -1,5 +1,152 @@
 Bacterial Species	Genomic Pattern	Connected Phage	Human Disease	Disease Category	Abundance Change	Source Database	
-pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage st16	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage st16	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
-pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage st16	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
-pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage st16	pancreatic neoplasms	cancers	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	necrotizing enterocolitis	gastrointestinal tract	decrease	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	systemic inflammatory response syndrome	gastrointestinal tract	decrease	HMDAD.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hiv infection	other	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hypertension	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	celiac disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	systemic lupus erythematosus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	primary biliary cirrhosis	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	cirrhosis of liver	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	transient ischemic attack	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson's disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	otitis media	nasal cavity	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	atopic eczema	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	congenital short bowel syndrome	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	asthma	respiratory tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	atherosclerosis	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	necrotizing enterocolitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	oligoasthenoteratozoospermia	genitals	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 2 diabetes	urinary tract	decrease	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal cancer	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	gastroenteritis	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	other	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	seminal hyperviscosity	genitals	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	alcoholic pancreatitis	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	celiac disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	irritable bowel syndrome	gastrointestinal disorders	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	inflammatory bowel diseases	gastrointestinal disorders	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	breast neoplasms	cancers	present	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn disease	gastrointestinal disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	constipation	gastrointestinal disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	liver neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	liver neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	stomach neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	stomach neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	thyroid neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	liver neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pharyngeal neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	alzheimer disease	neurodegenerative disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	stomach neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	lung neoplasms	cancers	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	lung neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	uterine cervical neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson disease	neurodegenerative disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	urinary bladder neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	cirrhosis	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal cancer	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hiv infection	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	asthma	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 2 diabetes	bladder	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	transient ischemic attack	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	systemic lupus erythematosus	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	"celiac disease, coaliac disease"	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	primary biliary cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	gastroenteritis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	primary biliary cholangitis	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ankylosing spondylitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ankylosing spondylitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	atherosclerosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson's disease	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	t2d with hypertension	bladder	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	t2d with hypertension	bladder	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	otitis media	nasopharynx	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	chronic alcoholic pancreatitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	seminal hyperviscosity	uro-genital system	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	oligoasthenoteratozoospermia	uro-genital system	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic cancer	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic cancer	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	infantile eczema	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	infantile eczema	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hypertension	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	schizophrenia	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 1 diabetes	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	rheumatoid arthritis	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	clonorchis sinensis infection	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hepatocellular cancer	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	microscopic colitis	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	keratitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	primary biliary cholangitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	gestational diabetes	cervix	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	gestational diabetes	cervix	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	thyroid carcinoma	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hiv infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	coronary artery disease	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	clostridium difficile infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	gastric carcinoma	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	alcoholism	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	clostridium difficile infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	juvenile idiopathic arthritis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	necrotizing enterocolitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson's disease	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	primary liver cancer	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 2 diabetes	bladder	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	chronic kidney disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	obesity	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	autoimmune hepatitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	acne	face	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	atopic dermatitis	skin	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	necrotizing enterocolitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	biliary atresia	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal cancer	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal cancer	mucosa	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	helicobacter pylori infection	mouth	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	coronary artery disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	frailty	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	sarcopenia	lumen	elevated	disbiome.tsv

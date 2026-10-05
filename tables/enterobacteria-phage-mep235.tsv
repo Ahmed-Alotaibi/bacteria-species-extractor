@@ -1,1 +1,14 @@
 Bacterial Species	Genomic Pattern	Connected Phage	Human Disease	Disease Category	Abundance Change	Source Database	
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB.txt
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	interstitial cystitis	urinary tract	increase	MicroPhenoDB.txt
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+cronobacter sakazakii	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	necrotizing enterocolitis	other	increase	MicroPhenoDB.txt
+cronobacter sakazakii	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	infectious meningitis	other	increase	MicroPhenoDB.txt
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	interstitial cystitis	bladder	elevated	disbiome.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	pancreatic cancer	lumen	elevated	disbiome.tsv
+cronobacter	terminase_1, phage_portal, phage_capsid	enterobacteria phage mep235	infantile eczema	lumen	elevated	disbiome.tsv
