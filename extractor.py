@@ -114,7 +114,7 @@ class Bacteria:
 
         #print(f"{microbe} ==? {self.phages[self.chosen_phage]}")
         #print(f"{microbe} ==? {list(self.bacteria_families)}")
-        if microbe not in self.phages[self.chosen_phage] and microbe not in list(self.bacteria_families):
+        if microbe not in self.phages[self.chosen_phage] and microbe not in self.bacteria_families.values():
           continue
         data.append([values[x].strip() for x in columns.values()])
 
