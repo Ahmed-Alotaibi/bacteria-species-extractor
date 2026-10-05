@@ -1,333 +1,152 @@
 Bacterial Species	Genomic Pattern	Connected Phage	Human Disease	Disease Category	Abundance Change	Source Database	
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	necrotizing enterocolitis	gastrointestinal tract	increase	HMDAD.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	necrotizing enterocolitis	gastrointestinal tract	decrease	HMDAD.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	systemic inflammatory response syndrome	gastrointestinal tract	decrease	HMDAD.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-pantoea	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-pantoea	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia albertii	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	diarrhea	other	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alzheimers disease	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	preeclampsia	placenta	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hiv infection	other	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pouchitis	gastrointestinal tract	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	gastroenteritis	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hiv infection	other	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hepatitis c infection	gastrointestinal tract	increase	MicroPhenoDB.txt
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hiv infection	other	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	gastrointestinal tract	decrease	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hypertension	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	sjogren syndrome	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hirschsprung disease - nail hypoplasia - dysmorphism	gastrointestinal tract	increase	MicroPhenoDB.txt
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hypertension	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	celiac disease	gastrointestinal tract	increase	MicroPhenoDB.txt
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB.txt
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	celiac disease	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	systemic lupus erythematosus	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	primary biliary cirrhosis	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	non-alcoholic fatty liver disease	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	cirrhosis of liver	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hepatic vein thrombosis	gastrointestinal tract	decrease	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	transient ischemic attack	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	chronic obstructive pulmonary disease	respiratory tract	decrease	MicroPhenoDB.txt
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	necrotizing enterocolitis	gastrointestinal tract	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal adenocarcinoma	other	decrease	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson's disease	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	chronic rhinosinusitis	auditory meatus	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	otitis media	nasal cavity	increase	MicroPhenoDB.txt
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	interstitial cystitis	urinary tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	sclerosing cholangitis	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	atopic eczema	gastrointestinal tract	decrease	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	congenital short bowel syndrome	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	asthma	respiratory tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	atherosclerosis	gastrointestinal tract	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hiv infection	cervix	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	necrotizing enterocolitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	bacteria vaginosis	cervix	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	oligoasthenoteratozoospermia	genitals	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pouchitis	gastrointestinal tract	increase	MicroPhenoDB.txt
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 2 diabetes	urinary tract	decrease	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hepatitis c infection	gastrointestinal tract	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	gastric carcinoma	other	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	congenital short bowel syndrome	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hepatitis b infection	gastrointestinal tract	decrease	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal cancer	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	sickle cell anemia	gastrointestinal tract	increase	MicroPhenoDB.txt
-pediococcus	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hepatitis c infection	gastrointestinal tract	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	other	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	gastroenteritis	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	other	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	obesity	gastrointestinal tract	increase	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	other	decrease	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal cancer	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	seminal hyperviscosity	genitals	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	non-alcoholic steatohepatitis	gastrointestinal tract	increase	MicroPhenoDB.txt
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	preeclampsia	placenta	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB.txt
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alcoholic pancreatitis	gastrointestinal tract	increase	MicroPhenoDB.txt
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	celiac disease	gastrointestinal disorders	increased	Peryton-results.tsv
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	celiac disease	gastrointestinal disorders	increased	Peryton-results.tsv
-pediococcus	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	irritable bowel syndrome	gastrointestinal disorders	present	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	irritable bowel syndrome	gastrointestinal disorders	increased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	inflammatory bowel diseases	gastrointestinal disorders	decreased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	irritable bowel syndrome	gastrointestinal disorders	decreased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	irritable bowel syndrome	gastrointestinal disorders	increased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	breast neoplasms	cancers	present	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	decreased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	rectal neoplasms	cancers	decreased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	rectal neoplasms	cancers	decreased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-pantoea	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	mouth neoplasms	cancers	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	mouth neoplasms	cancers	increased	Peryton-results.tsv
-pediococcus	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	mouth neoplasms	cancers	increased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	decreased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	gastrointestinal disorders	decreased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	atherosclerosis	cardiovascular diseases	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	mouth neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	constipation	gastrointestinal disorders	decreased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	liver neoplasms	cancers	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	liver neoplasms	cancers	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	coronary artery disease	cardiovascular diseases	increased	Peryton-results.tsv
-pediococcus	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	stomach neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	stomach neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	thyroid neoplasms	cancers	increased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia albertii	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	stomach neoplasms	cancers	decreased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	liver neoplasms	cancers	increased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pharyngeal neoplasms	cancers	increased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
-pantoea	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic neoplasms	cancers	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alzheimer disease	neurodegenerative disorders	decreased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alzheimer disease	neurodegenerative disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alzheimer disease	neurodegenerative disorders	increased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alzheimer disease	neurodegenerative disorders	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	stomach neoplasms	cancers	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	lung neoplasms	cancers	decreased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	lung neoplasms	cancers	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	uterine cervical neoplasms	cancers	decreased	Peryton-results.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	esophageal neoplasms	cancers	decreased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson disease	neurodegenerative disorders	decreased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal neoplasms	cancers	increased	Peryton-results.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	urinary bladder neoplasms	cancers	increased	Peryton-results.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	cirrhosis	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pouchitis	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pouchitis	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pouchitis	lumen	reduced	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	short bowel syndrome	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	lumen	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	lumen	reduced	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alzheimer's disease	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	irritable bowel syndrome	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal cancer	mucosa	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal cancer	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hiv infection	lumen	elevated	disbiome.tsv
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hiv infection	mucosa	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hiv infection	mucosa	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hiv infection	mucosa	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	sjögren syndrome	lumen	elevated	disbiome.tsv
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	preeclamsia	placenta	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	preeclamsia	placenta	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	bacterial vaginosis	vagina	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	chronic obstructive pulmonary disease	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	asthma	mucosa	elevated	disbiome.tsv
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	interstitial cystitis	bladder	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	irritable bowel syndrome	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	irritable bowel syndrome	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hypertension	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 2 diabetes	bladder	reduced	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	rectal carcinoma	colon	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	transient ischemic attack	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	systemic lupus erythematosus	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	primary sclerosing cholangitis-ibd	mucosa	elevated	disbiome.tsv
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	"celiac disease, coaliac disease"	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	"celiac disease, coaliac disease"	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	obesity	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	non alcoholic steatohepatitis	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	non-alcoholic fatty liver disease	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	primary biliary cirrhosis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	irritable bowel syndrome	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	irritable bowel syndrome	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	gastroenteritis	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	gastroenteritis	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	irritable bowel syndrome	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	primary biliary cholangitis	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ankylosing spondylitis	lumen	reduced	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ankylosing spondylitis	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ankylosing spondylitis	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	atherosclerosis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hypertension	lumen	elevated	disbiome.tsv
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hypertension	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson's disease	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hiv infection	vagina	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	t2d with hypertension	bladder	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	t2d with hypertension	bladder	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	short bowel syndrome	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	mucosa	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	mucosa	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	ulcerative colitis	mucosa	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	mucosa	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	otitis media	nasopharynx	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	chronic alcoholic pancreatitis	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	chronic rhinosinusitis	middle meatus	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hepatitis b	lumen	reduced	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	obesity	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	gastric carcinoma	mucosa	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hepatitis c	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hepatitis c	lumen	elevated	disbiome.tsv
-pediococcus	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hepatitis c	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal cancer	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	sickle cell disease	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	seminal hyperviscosity	uro-genital system	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	oligoasthenoteratozoospermia	uro-genital system	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	budd-chiari syndrome	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic cancer	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic cancer	lumen	elevated	disbiome.tsv
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pancreatic cancer	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	infantile eczema	lumen	reduced	disbiome.tsv
-cronobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	infantile eczema	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	infantile eczema	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	primary sclerosing cholangitis-ibd	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	mucosa	reduced	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hirschsprung's disease	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hypertension	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	cirrhosis	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pelvic inflammatory disease	pelvis	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	schizophrenia	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 1 diabetes	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	rheumatoid arthritis	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	autism spectrum disorders	lumen	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	clonorchis sinensis infection	lumen	reduced	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	severe fever with thrombocytopenia syndrome	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	myasthenia gravis	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	pulmonary tubercolosis	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	coronary heart disease	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hepatocellular cancer	lumen	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	microscopic colitis	mucosa	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	keratitis	lumen	reduced	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	mucosa	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	mucosa	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	"hand, foot and mouth disease"	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	systemic sclerosis	lesion	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	primary biliary cholangitis	lumen	elevated	disbiome.tsv
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	primary biliary cholangitis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	primary biliary cholangitis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	gestational diabetes	cervix	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	gestational diabetes	cervix	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	thyroid carcinoma	lumen	elevated	disbiome.tsv
-pediococcus	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	"celiac disease, coaliac disease"	mucosa	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hiv infection	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	coronary artery disease	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	non-alcoholic fatty liver disease	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	clostridium difficile infection	lumen	elevated	disbiome.tsv
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colon adenomas	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	gastric carcinoma	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alcoholism	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alcoholism	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	clostridium difficile infection	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	clostridium difficile infection	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	juvenile idiopathic arthritis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	necrotizing enterocolitis	lumen	reduced	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	necrotizing enterocolitis	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson's disease	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson's disease	lumen	elevated	disbiome.tsv
-salmonella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	parkinson's disease	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	primary liver cancer	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alzheimer's disease	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alzheimer's disease	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 2 diabetes	bladder	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	chronic kidney disease	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	obesity	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	autoimmune hepatitis	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	aerobic vaginitis	vagina	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	acne	face	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	atopic dermatitis	skin	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	necrotizing enterocolitis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	short bowel syndrome	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	short bowel syndrome	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	short bowel syndrome	lumen	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	short bowel syndrome	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	biliary atresia	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal cancer	mucosa	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	colorectal cancer	mucosa	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	lumen	reduced	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	crohn's disease	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	schizophrenia	lumen	elevated	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	hypertension	lumen	elevated	disbiome.tsv
-pediococcus	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 2 diabetes	lumen	reduced	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 2 diabetes	mucosa	elevated	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	alcoholism	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	type 2 diabetes	lumen	elevated	disbiome.tsv
-escherichia	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	neisseria gonorrhoeae infection	oropharynx	reduced	disbiome.tsv
-citrobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	chronic kidney disease	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	helicobacter pylori infection	mouth	reduced	disbiome.tsv
-enterobacter	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	coronary artery disease	lumen	reduced	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	frailty	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	cirrhosis	lumen	elevated	disbiome.tsv
-klebsiella	terminase_1, phage_portal, phage_capsid	shigella phage sfiv	sarcopenia	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	necrotizing enterocolitis	gastrointestinal tract	decrease	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	systemic inflammatory response syndrome	gastrointestinal tract	decrease	HMDAD.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hiv infection	other	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hypertension	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	celiac disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	systemic lupus erythematosus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	primary biliary cirrhosis	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	cirrhosis of liver	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	transient ischemic attack	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson's disease	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	otitis media	nasal cavity	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	atopic eczema	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	congenital short bowel syndrome	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	asthma	respiratory tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	atherosclerosis	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	necrotizing enterocolitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	oligoasthenoteratozoospermia	genitals	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 2 diabetes	urinary tract	decrease	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ischemia	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal cancer	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	gastroenteritis	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	other	decrease	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	seminal hyperviscosity	genitals	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	alcoholic pancreatitis	gastrointestinal tract	increase	MicroPhenoDB.txt
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB.txt
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	celiac disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	irritable bowel syndrome	gastrointestinal disorders	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	inflammatory bowel diseases	gastrointestinal disorders	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	breast neoplasms	cancers	present	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn disease	gastrointestinal disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ulcerative colitis	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	constipation	gastrointestinal disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	liver neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	liver neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	stomach neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	stomach neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	thyroid neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn disease	gastrointestinal disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	liver neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pharyngeal neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	alzheimer disease	neurodegenerative disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	stomach neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	lung neoplasms	cancers	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	lung neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	uterine cervical neoplasms	cancers	decreased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson disease	neurodegenerative disorders	decreased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson disease	neurodegenerative disorders	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal neoplasms	cancers	increased	Peryton-results.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	urinary bladder neoplasms	cancers	increased	Peryton-results.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	cirrhosis	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal cancer	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hiv infection	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	asthma	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 2 diabetes	bladder	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	transient ischemic attack	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	systemic lupus erythematosus	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	"celiac disease, coaliac disease"	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	primary biliary cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	irritable bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	gastroenteritis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	primary biliary cholangitis	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ankylosing spondylitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	ankylosing spondylitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	atherosclerosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson's disease	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	t2d with hypertension	bladder	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	t2d with hypertension	bladder	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	otitis media	nasopharynx	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	chronic alcoholic pancreatitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	seminal hyperviscosity	uro-genital system	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	oligoasthenoteratozoospermia	uro-genital system	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic cancer	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	pancreatic cancer	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	infantile eczema	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	infantile eczema	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hypertension	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	schizophrenia	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 1 diabetes	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	rheumatoid arthritis	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	clonorchis sinensis infection	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hepatocellular cancer	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	microscopic colitis	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	keratitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	mucosa	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	primary biliary cholangitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	gestational diabetes	cervix	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	gestational diabetes	cervix	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	thyroid carcinoma	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hiv infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	coronary artery disease	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	clostridium difficile infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	gastric carcinoma	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	alcoholism	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	clostridium difficile infection	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	juvenile idiopathic arthritis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	necrotizing enterocolitis	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	parkinson's disease	lumen	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	primary liver cancer	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	type 2 diabetes	bladder	elevated	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	chronic kidney disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	obesity	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	autoimmune hepatitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	acne	face	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	atopic dermatitis	skin	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	necrotizing enterocolitis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	short bowel syndrome	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	biliary atresia	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal cancer	mucosa	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	colorectal cancer	mucosa	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	crohn's disease	lumen	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	hypertension	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	helicobacter pylori infection	mouth	reduced	disbiome.tsv
+enterobacter	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	coronary artery disease	lumen	reduced	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	frailty	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	cirrhosis	lumen	elevated	disbiome.tsv
+klebsiella	terminase_1, phage_portal, phage_capsid	escherichia phage henu7	sarcopenia	lumen	elevated	disbiome.tsv
