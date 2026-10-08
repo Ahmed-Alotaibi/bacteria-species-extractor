@@ -3,13 +3,41 @@
 import os
 import sys
 from os import path
+import csv
+from csv import Sniffer
+from optparse import OptionParser
+import pdb
 
-#   0 => Bacteriophage
-# > 0 => Bacteria
+prog_name = 'extractor'
+
+# Adding Cmd Options
+optparser = OptionParser(prog= prog_name,
+                         usage=f'Usage: {prog_name} [OPTIONS] BACTERIOPHAGE[Name/Index] DATASET[DIRECTORY/FILE]',
+                         version=f'{prog_name} 2.0.0',
+                         description='Extract Bacterial Species,Diseases,Disease Categories, and Abundance Changes Related to a Bacteriophage from a Dataset',
+                         epilog=f'Try: {prog_name} \'Klebsiella phage st16\' DIRECTORY/FILE',
+)
+
+optparser.add_option('-o', '--output',
+                 dest='output_filename',
+                 default=None,
+                 help='Output to File FILE',
+                 metavar="FILE"
+)
+
+optparser.add_option('-d', '--delimiter',
+                 dest='output_delimiter',
+                 default=None,
+                 help='Output Using Delimiter DELIM (Can be inferred from file)',
+                 metavar="DELIM"
+)
 
 class Bacteria:
   def __init__(self):
+    # Bacteriophage
     self.chosen_phage = ""
+    # output File Delim
+    self.delim = None
     self.patterns = {
         "hnh"                                       : ["lactobacillus phage sha1",],
         "terminase_1, phage_portal, phage_capsid"   : [
@@ -58,22 +86,27 @@ class Bacteria:
         "klebsiella"          : ["klebsiella michiganensis",],
     }
 
-    # Case in-sensitve
+    '''
+    # Header names of columns we're interested in
     self.headers = [
         ["disease", "disease_name", "related_disease",],
         ["microbe", "microbe_scientific_name", "organism_name"],
         ["position", "disease_type_name", "location_name",],
         ["evidence", "tendency", "relationship_name", "qualitative_outcome",],
     ]
+    '''
+    # Header names of columns we're interested in
+    self.headers = {
+        "disease": ["disease_name", "related_disease",],
+        "microbe": ["microbe_scientific_name", "organism_name"],
+        "position": ["disease_type_name", "location_name",],
+        "evidence": ["tendency", "relationship_name", "qualitative_outcome",],
+    }
 
+    # Output header names
     self.output_header = [
-        "Bacterial Species",
-        "Genomic Pattern",
-        "Connected Phage",
-        "Human Disease",
-        "Disease Category",
-        "Abundance Change",
-        "Source Database",
+        "Bacterial Species", "Genomic Pattern", "Connected Phage",
+        "Human Disease", "Disease Category", "Abundance Change", "Source Database",
     ]
 
   # ph = string/index
@@ -93,109 +126,135 @@ class Bacteria:
       return False
 
   def search_bacteria_in_file(self, file):
-    columns = {h[0]: -1 for h in self.headers}
-    data    = []
+    # Names (keys) of columns that we want
+    data_keys = {}
+    data = []
 
-    with open(file, encoding='utf-8') as f:
-      content = [line.lower() for line in f]
-      for i, h in enumerate(content[0].split('\t')):
-        for header in self.headers:
-          if h.strip() in header:
-              columns[header[0]] = i
+    with open(file, 'r', encoding='utf-8-sig', newline='') as f:
+      # Read a single line to find the delimiter used
+      header = f.readline()
+      f.seek(0)
+      delim = csv.Sniffer().sniff(header, delimiters=',\t').delimiter
 
-      # Skip header
-      content = content[1:]
+      # If output delim was not chosen through options, set it to the first file delim we encounter
+      if self.delim is None:
+        self.delim = delim
 
-      for line in content:
-        values = str(line).split('\t')
-        microbe = values[columns["microbe"]].strip()
+      reader = csv.DictReader(f, delimiter=delim, lineterminator='\n')
+      rows = [row for row in reader]
+
+      # Is this a column we're interested in?
+      for column in list(rows[0]):
+        for main_header_name, possible_header_names in self.headers.items():
+          if column.lower() == main_header_name or column.lower() in possible_header_names:
+            # It is!, save it's name
+            data_keys[main_header_name] = column
+
+      for row in rows:
+        add = False
+        microbe = row[data_keys['microbe']].lower()
         if len(microbe) <= 0:
           continue
 
-        #print(f"{microbe} ==? {self.phages[self.chosen_phage]}")
-        #print(f"{microbe} ==? {list(self.bacteria_families)}")
-
-        # If it's in the bacteriophage, add it
+        # Is this bacterial species under the chosen phage?
         if microbe in self.phages[self.chosen_phage]:
-          data.append([values[x].strip() for x in columns.values()])
-          continue
+          add = True
 
-        # If not, check that it belongs to the same family of those in the bacteriophage
-        if microbe in list(self.bacteria_families):
-          #print(f"{set(self.bacteria_families[microbe])}", file=sys.stderr)
-          #print(f"{set(self.phages[self.chosen_phage])}", file=sys.stderr)
+        #or atleast related to the same family that other species are?
+        elif microbe in list(self.bacteria_families):
           if len(set(self.bacteria_families[microbe]) & set(self.phages[self.chosen_phage])) > 0:
-            data.append([values[x].strip() for x in columns.values()])
+            add = True
+
+        # If it's a yes, then add it in the same order as output_header
+        if add:
+          pattern = None
+          for pat, bacteriophage in self.patterns.items():
+            if self.chosen_phage in bacteriophage:
+              pattern = pat
+              break
+
+          # Bacterial Species    Genomic Pattern    Connected Phage    Human Disease    Disease Category    Abundance Change    Source Database
+          data.append([row[data_keys["microbe"]].lower(),     # Bacterial Species 
+                       pattern,                               # Genomic Pattern
+                       self.chosen_phage,                     # Connected Phage
+                       row[data_keys["disease"]].lower(),     # Human Disease
+                       row[data_keys["position"]].lower(),    # Diseases Category
+                       row[data_keys["evidence"]].lower(),    # Abundance Change
+                       path.splitext(path.basename(file))[0]] # Source Database
+          )
 
     return data
 
+  # Walk the dataset directory and search each file
   def search_bacteria_in_dir(self, directory):
     file_and_data = {}
-    for root, dirs, files in os.walk(directory):
+    for root, unused, files in os.walk(directory):
       for f in files:
         data = self.search_bacteria_in_file(path.join(root, f))
         if len(data) > 0:
-          file_and_data[f] = data
+          file_and_data[path.splitext(f)[0]] = data
 
     return file_and_data
 
-def usage(progname):
-  print(f"Usage: {progname} BACTERIOPHAGE[name/index] DATASET[DIRECTORY/FILE]", file=sys.stderr)
+  # Output [ct]sv
+  def write_csv(self, source, data, output, print_headers=True):
+    # DIR/FILE.EXT => FILE
+    source = path.splitext(path.basename(source))[0]
+
+    writer = csv.writer(output, delimiter=self.delim, lineterminator='\n')
+    if print_headers:
+      writer.writerow(self.output_header)
+
+    writer.writerows(data)
+
+def usage(optparser):
+  optparser.print_help()
   for i, v in enumerate(Bacteria().phages):
-    print(f"{i} => {v}")
+    print(f"{i} => {v}", file=sys.stderr)
   sys.exit(1)
 
-def main():
-  if(len(sys.argv) < 3):
-    usage(sys.argv[0])
 
-  progname, phage_species, dataset = sys.argv[:3]
+def main():
+  opts, args = optparser.parse_args()
+  if len(args) != 2:
+    usage(optparser)
+
+  output = sys.stdout if opts.output_filename is None else open(opts.output_filename, 'w', encoding='utf-8')
+
+  phage_species, dataset = args[:2]
+
 
   bact = Bacteria()
+  if opts.output_delimiter is not None:
+    bact.delim = opts.output_delimiter.replace(r'\t', '\t')
 
   if not bact.select_phage(phage_species):
     print(f"Invalid phage name/index => {phage_species}\n", file=sys.stderr)
     usage(progname)
 
+  #pdb.set_trace()
+
   if path.isdir(dataset):
     dir_data = bact.search_bacteria_in_dir(dataset)
+
     for col in bact.output_header:
-      print(col, end='\t')
-    print()
+      print(col, end=bact.delim, file=output)
+    print(file=output)
+
     for filename, data in dir_data.items():
-      for data_row_list in data:
-        print(data_row_list[1], end='\t')
-        for k, v in bact.patterns.items():
-          if bact.chosen_phage in v:
-            print(k, end='\t')
-            break
-        print(bact.chosen_phage, end='\t')
-        print(data_row_list[0], end='\t')
-        print(data_row_list[2], end='\t')
-        print(data_row_list[3], end='\t')
-        print(filename)
+      bact.write_csv(filename, data, output, print_headers=False)
+
   else:
     file_data = bact.search_bacteria_in_file(dataset)
-    for col in bact.output_header:
-      print(col, end='\t')
-    print()
+    bact.write_csv(dataset, file_data, output)
 
-    for data_row_list in file_data:
-      print(data_row_list[1], end='\t')
-      for k, v in bact.patterns.items():
-        if bact.chosen_phage in v:
-          print(k, end='\t')
-          break
-      print(bact.chosen_phage, end='\t')
-      print(data_row_list[0], end='\t')
-      print(data_row_list[2], end='\t')
-      print(data_row_list[3], end='\t')
-      print(dataset)
+  if opts.output_filename is not None:
+    output.close()
 
 if __name__ == '__main__':
   try:
     main()
-  except BrokenPipeError:
+  except:
     devnull = os.open(os.devnull, os.O_WRONLY)
     os.dup2(devnull, sys.stdout.fileno())
     sys.stdout.flush()
