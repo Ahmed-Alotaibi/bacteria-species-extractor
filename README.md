@@ -1,6 +1,20 @@
 # Usage
 ```
-extractor.py BACTERIOPHAGE[name/index] DATASET[DIRECTORY/FILE]
+Usage: extractor [OPTIONS] BACTERIOPHAGE[Name/Index] DATASET[DIRECTORY/FILE]
+
+Extract Bacterial Species,Diseases,Disease Categories, and Abundance Changes
+Related to a Bacteriophage from a Dataset
+
+Options:
+  --version             show program's version number and exit
+  -h, --help            show this help message and exit
+  -o FILE, --output=FILE
+                        Output to File FILE
+  -d DELIM, --delimiter=DELIM
+                        Output Using Delimiter DELIM (Can be inferred from
+                        file)
+
+Try: extractor 'Klebsiella phage st16' DIRECTORY/FILE
 0 => lactobacillus phage sha1
 1 => bacteriophage sp
 2 => klebsiella phage kpp5665-2
@@ -14,21 +28,5 @@ extractor.py BACTERIOPHAGE[name/index] DATASET[DIRECTORY/FILE]
 10 => enterobacteria phage mep235
 11 => escherichia phage henu7
 12 => uc phage clone 7s_14
-13 => uc phage clone 2ax_6sage: extractor.py BACTERIOPHAGE[name/index] DATASET[DIRECTORY/FILE]
-```
-## Note: 0-based index - Tab seperated output
-
-## Example Usage and output
-```
-python3 extractor.py "Klebsiella phage st13" data/HMDAD.txt > Klebsiella-phage-st13.tsv
-```
-```
-Bacterial Species	Genomic Pattern	Connected Phage	Human Disease	Disease Category	Abundance Change	Source Database	
-enterobacter hormaechei	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	decrease	data/HMDAD.txt
-
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	increase	data/HMDAD.txt
-
-klebsiella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	decrease	data/HMDAD.txt
-
-klebsiella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	systemic inflammatory response syndrome	gastrointestinal tract	decrease	data/HMDAD.txt
+13 => uc phage clone 2ax_6
 ```
