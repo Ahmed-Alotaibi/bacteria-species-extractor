@@ -4,11 +4,11 @@ import os
 import sys
 from os import path
 import csv
-from csv import Sniffer
 from optparse import OptionParser
-import pdb
+#import pdb
 
 prog_name = 'extractor'
+valid_delims = ['\t', ',',]
 
 # Adding Cmd Options
 optparser = OptionParser(prog= prog_name,
@@ -86,15 +86,6 @@ class Bacteria:
         "klebsiella"          : ["klebsiella michiganensis",],
     }
 
-    '''
-    # Header names of columns we're interested in
-    self.headers = [
-        ["disease", "disease_name", "related_disease",],
-        ["microbe", "microbe_scientific_name", "organism_name"],
-        ["position", "disease_type_name", "location_name",],
-        ["evidence", "tendency", "relationship_name", "qualitative_outcome",],
-    ]
-    '''
     # Header names of columns we're interested in
     self.headers = {
         "disease": ["disease_name", "related_disease",],
@@ -201,7 +192,7 @@ class Bacteria:
     # DIR/FILE.EXT => FILE
     source = path.splitext(path.basename(source))[0]
 
-    writer = csv.writer(output, delimiter=self.delim, lineterminator='\n')
+    writer = csv.writer(output, delimiter=self.delim, lineterminator=os.linesep)
     if print_headers:
       writer.writerow(self.output_header)
 
@@ -221,15 +212,18 @@ def main():
 
   output = sys.stdout if opts.output_filename is None else open(opts.output_filename, 'w', encoding='utf-8')
 
-  phage_species, dataset = args[:2]
-
+  bacteriophage, dataset = args[:2]
 
   bact = Bacteria()
   if opts.output_delimiter is not None:
     bact.delim = opts.output_delimiter.replace(r'\t', '\t')
+    if bact.delim not in valid_delims:
+      print(f'ERROR: Illegal Delim: \'{bact.delim}\'\n'
+            f'       Valid delims: {valid_delims}', file=sys.stderr)
+      usage(optparser)
 
-  if not bact.select_phage(phage_species):
-    print(f"Invalid phage name/index => {phage_species}\n", file=sys.stderr)
+  if not bact.select_phage(bacteriophage):
+    print(f"Invalid bacteriophage name/index => {bacteriophage}\n", file=sys.stderr)
     usage(progname)
 
   #pdb.set_trace()
