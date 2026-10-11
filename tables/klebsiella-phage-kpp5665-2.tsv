@@ -1,5 +1,5 @@
 Bacterial Species	Genomic Pattern	Connected Phage	Human Disease	Disease Category	Abundance Change	Source Database	
-pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage kpp5665-2	type 1 diabetes	gastrointestinal tract	increase	HMDAD.txt
-pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage kpp5665-2	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB.txt
-pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage kpp5665-2	colorectal neoplasms	cancers	decreased	Peryton-results.tsv
-pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage kpp5665-2	pancreatic neoplasms	cancers	decreased	Peryton-results.tsv
+pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage kpp5665-2	type 1 diabetes	gastrointestinal tract	increase	HMDAD
+pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage kpp5665-2	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB
+pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage kpp5665-2	colorectal neoplasms	cancers	decreased	Peryton
+pantoea	terminase_1, phage_portal, phage_capsid	klebsiella phage kpp5665-2	pancreatic neoplasms	cancers	decreased	Peryton

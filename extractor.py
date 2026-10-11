@@ -61,7 +61,7 @@ class Bacteria:
     # output File Delim
     self.delim = None
     self.patterns = {
-        "hnh"                                       : ["lactobacillus phage sha1",],
+        "hnh, phage_portal, phage_capsid"           : ["lactobacillus phage sha1",],
         "terminase_1, phage_portal, phage_capsid"   : [
             "bacteriophage sp",
             "klebsiella phage kpp5665-2",
