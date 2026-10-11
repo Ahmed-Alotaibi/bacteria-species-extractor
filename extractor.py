@@ -58,7 +58,7 @@ class Bacteria:
     }
     self.phages = {
         "lactobacillus phage sha1"      : ["pediococcus pentosaceus",],
-        "bacteriophage sp"              : ["latilactobacillus curvatus", "latilactobacillus sakei",],
+        "bacteriophage sp"              : ["latilactobacillus curvatus", "latilactobacillus sakei", "lactobacillus sakei", "lactobacillus curvatus",],
         "klebsiella phage kpp5665-2"    : ["pantoea vagans", "citrobacter freundii",],
         "klebsiella phage st16"         : ["pantoea vagans", "citrobacter freundii",],
         "klebsiella phage st846"        : ["citrobacter braakii", "citrobacter tructae",],
@@ -73,7 +73,7 @@ class Bacteria:
         "uc phage clone 2ax_6"          : ["enterobacter soli", "pluralibacter gergoviae", "klebsiella michiganensis",],
     }
     self.bacteria_families = {
-        "latilactobacillus"   : ["latilactobacillus curvatus", "latilactobacillus sakei",],
+        "latilactobacillus"   : ["latilactobacillus curvatus", "latilactobacillus sakei", "lactobacillus sakei", "lactobacillus curvatus",],
         "pediococcus"         : ["pediococcus pentosaceus",],
         "pantoea"             : ["pantoea vagans",],
         "citrobacter freundii": ["citrobacter freundii", "citrobacter braakii",],

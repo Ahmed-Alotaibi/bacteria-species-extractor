@@ -1,1 +1,8 @@
 Bacterial Species	Genomic Pattern	Connected Phage	Human Disease	Disease Category	Abundance Change	Source Database	
+lactobacillus sakei	terminase_1, phage_portal, phage_capsid	bacteriophage sp	chronic rhinosinusitis	nasal cavity	decrease	MicroPhenoDB
+lactobacillus sakei	terminase_1, phage_portal, phage_capsid	bacteriophage sp	chronic obstructive pulmonary disease	respiratory tract	decrease	MicroPhenoDB
+lactobacillus sakei	terminase_1, phage_portal, phage_capsid	bacteriophage sp	chronic obstructive pulmonary disease	lumen	reduced	disbiome
+lactobacillus sakei	terminase_1, phage_portal, phage_capsid	bacteriophage sp	chronic rhinosinusitis	maxillary sinus	reduced	disbiome
+lactobacillus sakei	terminase_1, phage_portal, phage_capsid	bacteriophage sp	celiac disease	gastrointestinal disorders	present	Peryton
+lactobacillus sakei	terminase_1, phage_portal, phage_capsid	bacteriophage sp	celiac disease	gastrointestinal disorders	absent	Peryton
+lactobacillus sakei	terminase_1, phage_portal, phage_capsid	bacteriophage sp	uterine cervical neoplasms	cancers	present	Peryton
