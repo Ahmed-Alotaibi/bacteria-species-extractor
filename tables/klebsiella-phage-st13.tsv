@@ -1,120 +1,120 @@
 Bacterial Species	Genomic Pattern	Connected Phage	Human Disease	Disease Category	Abundance Change	Source Database	
-enterobacter hormaechei	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	decrease	HMDAD
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	increase	HMDAD
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	type 1 diabetes	gastrointestinal tract	increase	HMDAD
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	type 1 diabetes	gastrointestinal tract	increase	HMDAD
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	type 1 diabetes	gastrointestinal tract	increase	HMDAD
-citrobacter amalonaticus	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	bacteriemia	other	increase	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	pouchitis	gastrointestinal tract	increase	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	gastroenteritis	gastrointestinal tract	increase	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	hepatitis c infection	gastrointestinal tract	increase	MicroPhenoDB
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	hiv infection	other	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn's disease	gastrointestinal tract	decrease	MicroPhenoDB
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	hypertension	gastrointestinal tract	increase	MicroPhenoDB
-enterobacter hormaechei	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	autism	gastrointestinal tract	increase	MicroPhenoDB
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	celiac disease	gastrointestinal tract	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	cirrhosis of liver	gastrointestinal tract	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	transient ischemic attack	gastrointestinal tract	increase	MicroPhenoDB
-salmonella enterica	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn's disease	gastrointestinal tract	increase	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	chronic obstructive pulmonary disease	respiratory tract	decrease	MicroPhenoDB
-enterobacter hormaechei	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	decrease	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn's disease	gastrointestinal tract	increase	MicroPhenoDB
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ischemia	gastrointestinal tract	increase	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	increase	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB
-salmonella enterica	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	salmonella gastroenteritis	other	increase	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	hiv infection	cervix	increase	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	bacteria vaginosis	cervix	increase	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	gastric carcinoma	other	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ischemia	gastrointestinal tract	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ulcerative colitis	other	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB
-citrobacter amalonaticus	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	urinary tract infection	other	increase	MicroPhenoDB
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	preeclampsia	placenta	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	alcoholic pancreatitis	gastrointestinal tract	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	cirrhosis	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	pouchitis	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn's disease	lumen	reduced	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn's disease	lumen	reduced	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn's disease	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	irritable bowel syndrome	lumen	elevated	disbiome
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	hiv infection	mucosa	elevated	disbiome
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	preeclamsia	placenta	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	bacterial vaginosis	vagina	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	chronic obstructive pulmonary disease	lumen	reduced	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	irritable bowel syndrome	lumen	reduced	disbiome
-enterobacter hormaechei	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	autism	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	transient ischemic attack	lumen	elevated	disbiome
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	celiac disease, coaliac disease	lumen	elevated	disbiome
-salmonella enterica	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn's disease	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	irritable bowel syndrome	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	gastroenteritis	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ankylosing spondylitis	lumen	reduced	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ankylosing spondylitis	lumen	reduced	disbiome
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	hypertension	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	hiv infection	vagina	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	t2d with hypertension	bladder	reduced	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ulcerative colitis	mucosa	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ulcerative colitis	mucosa	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	chronic alcoholic pancreatitis	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	gastric carcinoma	mucosa	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	hepatitis c	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	pancreatic cancer	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	infantile eczema	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	type 1 diabetes	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	clonorchis sinensis infection	lumen	reduced	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	coronary heart disease	lumen	reduced	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	microscopic colitis	mucosa	reduced	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	systemic sclerosis	lesion	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	primary biliary cholangitis	lumen	elevated	disbiome
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	primary biliary cholangitis	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	gestational diabetes	cervix	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	hiv infection	lumen	elevated	disbiome
-salmonella enterica	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	breast cancer	mucosa	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	non-alcoholic fatty liver disease	lumen	reduced	disbiome
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	colon adenomas	lumen	reduced	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	clostridium difficile infection	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	necrotizing enterocolitis	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	parkinson's disease	lumen	elevated	disbiome
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	parkinson's disease	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	primary liver cancer	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	chronic kidney disease	lumen	reduced	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	necrotizing enterocolitis	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	short bowel syndrome	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	short bowel syndrome	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn's disease	lumen	reduced	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	hypertension	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	alcoholism	lumen	elevated	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	chronic kidney disease	lumen	elevated	disbiome
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	coronary artery disease	lumen	reduced	disbiome
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn disease	gastrointestinal disorders	increased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	colorectal neoplasms	cancers	increased	Peryton
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	celiac disease	gastrointestinal disorders	increased	Peryton
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	irritable bowel syndrome	gastrointestinal disorders	increased	Peryton
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	inflammatory bowel diseases	gastrointestinal disorders	decreased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	irritable bowel syndrome	gastrointestinal disorders	decreased	Peryton
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	breast neoplasms	cancers	present	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ulcerative colitis	gastrointestinal disorders	increased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ulcerative colitis	gastrointestinal disorders	increased	Peryton
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ulcerative colitis	gastrointestinal disorders	increased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	mouth neoplasms	cancers	increased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn disease	gastrointestinal disorders	decreased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ulcerative colitis	gastrointestinal disorders	increased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	ulcerative colitis	gastrointestinal disorders	increased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	crohn disease	gastrointestinal disorders	increased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	parkinson disease	neurodegenerative disorders	increased	Peryton
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	parkinson disease	neurodegenerative disorders	increased	Peryton
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	pharyngeal neoplasms	cancers	increased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	colorectal neoplasms	cancers	decreased	Peryton
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	alzheimer disease	neurodegenerative disorders	decreased	Peryton
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	lung neoplasms	cancers	decreased	Peryton
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	uterine cervical neoplasms	cancers	decreased	Peryton
-enterobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	colorectal neoplasms	cancers	increased	Peryton
-citrobacter	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	colorectal neoplasms	cancers	increased	Peryton
-salmonella	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	colorectal neoplasms	cancers	increased	Peryton
-salmonella enterica	terminase_1, phage_portal, phage_capsid	klebsiella phage st13	colorectal neoplasms	cancers	increased	Peryton
+enterobacter hormaechei	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	decrease	HMDAD
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	increase	HMDAD
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	type 1 diabetes	gastrointestinal tract	increase	HMDAD
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	type 1 diabetes	gastrointestinal tract	increase	HMDAD
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	type 1 diabetes	gastrointestinal tract	increase	HMDAD
+citrobacter amalonaticus	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	bacteriemia	other	increase	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	pouchitis	gastrointestinal tract	increase	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	gastroenteritis	gastrointestinal tract	increase	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	hepatitis c infection	gastrointestinal tract	increase	MicroPhenoDB
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	hiv infection	other	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn's disease	gastrointestinal tract	decrease	MicroPhenoDB
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	hypertension	gastrointestinal tract	increase	MicroPhenoDB
+enterobacter hormaechei	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	autism	gastrointestinal tract	increase	MicroPhenoDB
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	celiac disease	gastrointestinal tract	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	cirrhosis of liver	gastrointestinal tract	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	transient ischemic attack	gastrointestinal tract	increase	MicroPhenoDB
+salmonella enterica	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn's disease	gastrointestinal tract	increase	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	chronic obstructive pulmonary disease	respiratory tract	decrease	MicroPhenoDB
+enterobacter hormaechei	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	decrease	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn's disease	gastrointestinal tract	increase	MicroPhenoDB
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ischemia	gastrointestinal tract	increase	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	necrotizing enterocolitis	gastrointestinal tract	increase	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB
+salmonella enterica	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	salmonella gastroenteritis	other	increase	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	hiv infection	cervix	increase	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	bacteria vaginosis	cervix	increase	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	gastric carcinoma	other	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ischemia	gastrointestinal tract	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	type i diabetes mellitus	gastrointestinal tract	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ankylosing spondylitis	gastrointestinal tract	decrease	MicroPhenoDB
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ulcerative colitis	other	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	pulmonary arterial hypertension associated with another disease	urinary tract	decrease	MicroPhenoDB
+citrobacter amalonaticus	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	urinary tract infection	other	increase	MicroPhenoDB
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	preeclampsia	placenta	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	atopic eczema	gastrointestinal tract	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	alcoholic pancreatitis	gastrointestinal tract	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	pancreatic carcinoma	gastrointestinal tract	increase	MicroPhenoDB
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	cirrhosis	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	pouchitis	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn's disease	lumen	reduced	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn's disease	lumen	reduced	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn's disease	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	irritable bowel syndrome	lumen	elevated	disbiome
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	hiv infection	mucosa	elevated	disbiome
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	preeclamsia	placenta	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	bacterial vaginosis	vagina	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	chronic obstructive pulmonary disease	lumen	reduced	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	irritable bowel syndrome	lumen	reduced	disbiome
+enterobacter hormaechei	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	autism	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	transient ischemic attack	lumen	elevated	disbiome
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	celiac disease, coaliac disease	lumen	elevated	disbiome
+salmonella enterica	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn's disease	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	irritable bowel syndrome	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	gastroenteritis	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ankylosing spondylitis	lumen	reduced	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ankylosing spondylitis	lumen	reduced	disbiome
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	hypertension	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	hiv infection	vagina	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	t2d with hypertension	bladder	reduced	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ulcerative colitis	mucosa	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ulcerative colitis	mucosa	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	chronic alcoholic pancreatitis	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	gastric carcinoma	mucosa	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	hepatitis c	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	pancreatic cancer	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	infantile eczema	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	type 1 diabetes	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	clonorchis sinensis infection	lumen	reduced	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	coronary heart disease	lumen	reduced	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	microscopic colitis	mucosa	reduced	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	systemic sclerosis	lesion	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	primary biliary cholangitis	lumen	elevated	disbiome
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	primary biliary cholangitis	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	gestational diabetes	cervix	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	hiv infection	lumen	elevated	disbiome
+salmonella enterica	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	breast cancer	mucosa	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	non-alcoholic fatty liver disease	lumen	reduced	disbiome
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	colon adenomas	lumen	reduced	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	clostridium difficile infection	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	necrotizing enterocolitis	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	parkinson's disease	lumen	elevated	disbiome
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	parkinson's disease	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	primary liver cancer	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	chronic kidney disease	lumen	reduced	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	necrotizing enterocolitis	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	short bowel syndrome	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	short bowel syndrome	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn's disease	lumen	reduced	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	hypertension	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	alcoholism	lumen	elevated	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	chronic kidney disease	lumen	elevated	disbiome
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	coronary artery disease	lumen	reduced	disbiome
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn disease	gastrointestinal disorders	increased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	colorectal neoplasms	cancers	increased	Peryton
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	celiac disease	gastrointestinal disorders	increased	Peryton
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	irritable bowel syndrome	gastrointestinal disorders	increased	Peryton
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	inflammatory bowel diseases	gastrointestinal disorders	decreased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	irritable bowel syndrome	gastrointestinal disorders	decreased	Peryton
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	breast neoplasms	cancers	present	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ulcerative colitis	gastrointestinal disorders	increased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ulcerative colitis	gastrointestinal disorders	increased	Peryton
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ulcerative colitis	gastrointestinal disorders	increased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	mouth neoplasms	cancers	increased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn disease	gastrointestinal disorders	decreased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ulcerative colitis	gastrointestinal disorders	increased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	ulcerative colitis	gastrointestinal disorders	increased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	crohn disease	gastrointestinal disorders	increased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	parkinson disease	neurodegenerative disorders	increased	Peryton
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	parkinson disease	neurodegenerative disorders	increased	Peryton
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	pharyngeal neoplasms	cancers	increased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	colorectal neoplasms	cancers	decreased	Peryton
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	alzheimer disease	neurodegenerative disorders	decreased	Peryton
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	lung neoplasms	cancers	decreased	Peryton
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	uterine cervical neoplasms	cancers	decreased	Peryton
+enterobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	colorectal neoplasms	cancers	increased	Peryton
+citrobacter	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	colorectal neoplasms	cancers	increased	Peryton
+salmonella	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	colorectal neoplasms	cancers	increased	Peryton
+salmonella enterica	terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1	klebsiella phage st13	colorectal neoplasms	cancers	increased	Peryton

@@ -183,8 +183,10 @@ class Bacteria:
           pattern = None
           for pat, bacteriophage in self.patterns.items():
             if self.chosen_phage in bacteriophage:
-              pattern = pat
-              break
+              if pattern is not None:
+                pattern += f'/{pat}'
+              else:
+                pattern = pat
 
           # Bacterial Species    Genomic Pattern    Connected Phage    Human Disease    Disease Category    Abundance Change    Source Database
           data.append([row[data_keys["microbe"]].lower(),     # Bacterial Species 
