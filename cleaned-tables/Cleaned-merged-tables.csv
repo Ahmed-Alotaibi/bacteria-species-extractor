@@ -1,61 +1,61 @@
 Bacterial Species,Genomic Pattern,Connected Phage,Human Disease,Disease Category,Abundance Change,Source Database
-citrobacter amalonaticus:35703,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,bacteriemia,blood,increased,MicroPhenoDB
-citrobacter amalonaticus:35703,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,urinary tract infection,urinary,increased,MicroPhenoDB
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ankylosing spondylitis,inflammatory,decreased,disbiome/MicroPhenoDB
+citrobacter amalonaticus:35703,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,bacteriemia,blood,increased,MicroPhenoDB
+citrobacter amalonaticus:35703,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,urinary tract infection,urinary,increased,MicroPhenoDB
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,ankylosing spondylitis,inflammatory,decreased,disbiome/MicroPhenoDB
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,ankylosing spondylitis,inflammatory,decreased,disbiome/MicroPhenoDB
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,chronic obstructive pulmonary disease,respiratory,decreased,disbiome/MicroPhenoDB
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,chronic obstructive pulmonary disease,respiratory,decreased,disbiome/MicroPhenoDB
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,decreased,Peryton
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,chronic obstructive pulmonary disease,respiratory,decreased,disbiome/MicroPhenoDB
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,colorectal cancer,cancer,decreased,Peryton
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,colorectal cancer,cancer,decreased,Peryton
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,coronary artery disease,cardiovascular,decreased,disbiome
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,coronary artery disease,cardiovascular,decreased,disbiome
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,coronary artery disease,cardiovascular,decreased,disbiome
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,crohn disease,inflammatory,decreased,disbiome/Peryton
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,alcoholism,general,increased,disbiome
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,crohn disease,inflammatory,decreased,disbiome/Peryton
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,alcoholism,general,increased,disbiome
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,crohn disease,inflammatory,decreased,disbiome/Peryton
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,alcoholism,general,increased,disbiome
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,irritable bowel syndrome,gastrointestinal,decreased,disbiome/Peryton
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,irritable bowel syndrome,gastrointestinal,decreased,disbiome/Peryton
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,irritable bowel syndrome,gastrointestinal,decreased,disbiome/Peryton
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,non-alcoholic fatty liver disease,metabolic,decreased,disbiome
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,non-alcoholic fatty liver disease,metabolic,decreased,disbiome
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,non-alcoholic fatty liver disease,metabolic,decreased,disbiome
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,bacterial vaginosis,infectious,increased,disbiome/MicroPhenoDB
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,bacterial vaginosis,infectious,increased,disbiome/MicroPhenoDB
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,bacterial vaginosis,infectious,increased,disbiome/MicroPhenoDB
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,chronic kidney disease,urinary,increased,disbiome
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,chronic kidney disease,urinary,increased,disbiome
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,chronic kidney disease,urinary,increased,disbiome
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,clostridium difficile infection,infectious,increased,disbiome
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,clostridium difficile infection,infectious,increased,disbiome
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,clostridium difficile infection,infectious,increased,disbiome
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,colorectal cancer,cancer,increased,Peryton
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,crohn disease,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,crohn disease,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,crohn disease,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,gastric cancer,cancer,increased,disbiome/MicroPhenoDB
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,gastric cancer,cancer,increased,disbiome/MicroPhenoDB
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,gastric cancer,cancer,increased,disbiome/MicroPhenoDB
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,gastroenteritis,infectious,increased,disbiome/MicroPhenoDB
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,gastroenteritis,infectious,increased,disbiome/MicroPhenoDB
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,gastroenteritis,infectious,increased,disbiome/MicroPhenoDB
 escherichia genus:561,"terminase_1, phage_portal, phage_capsid",shigella phage sfii,"hand, foot and mouth disease",infectious,increased,disbiome
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,hepatitis c,infectious,increased,disbiome/MicroPhenoDB
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,hiv,infectious,increased,disbiome/MicroPhenoDB
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,hiv,infectious,increased,disbiome/MicroPhenoDB
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,hiv,infectious,increased,disbiome/MicroPhenoDB
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,irritable bowel syndrome,gastrointestinal,increased,disbiome
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,irritable bowel syndrome,gastrointestinal,increased,disbiome
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,irritable bowel syndrome,gastrointestinal,increased,disbiome
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ischemia,cardiovascular,increased,MicroPhenoDB
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,ischemia,cardiovascular,increased,MicroPhenoDB
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,ischemia,cardiovascular,increased,MicroPhenoDB
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,mouth cancer,cancer,increased,Peryton
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,mouth cancer,cancer,increased,Peryton
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,mouth cancer,cancer,increased,Peryton
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,necrotizing enterocolitis,gastrointestinal,increased,disbiome/HMDAD/MicroPhenoDB
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,necrotizing enterocolitis,gastrointestinal,increased,disbiome/HMDAD/MicroPhenoDB
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,necrotizing enterocolitis,gastrointestinal,increased,disbiome/HMDAD/MicroPhenoDB
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,parkinson disease,neurological,increased,disbiome/Peryton
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,parkinson disease,neurological,increased,disbiome/Peryton
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,parkinson disease,neurological,increased,disbiome/Peryton
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,pouchitis,inflammatory,increased,disbiome/MicroPhenoDB
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,pouchitis,inflammatory,increased,disbiome/MicroPhenoDB
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,pouchitis,inflammatory,increased,disbiome/MicroPhenoDB
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,primary biliary cholangitis,inflammatory,increased,disbiome
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,primary biliary cholangitis,inflammatory,increased,disbiome
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,primary biliary cholangitis,inflammatory,increased,disbiome
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,short bowel syndrome,gastrointestinal,increased,disbiome
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,short bowel syndrome,gastrointestinal,increased,disbiome
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,short bowel syndrome,gastrointestinal,increased,disbiome
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,systemic sclerosis,inflammatory,increased,disbiome
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,systemic sclerosis,inflammatory,increased,disbiome
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,systemic sclerosis,inflammatory,increased,disbiome
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,type 1 diabetes,metabolic,increased,HMDAD
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,type 1 diabetes,metabolic,increased,HMDAD
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,type 1 diabetes,metabolic,increased,HMDAD
-citrobacter genus:544,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ulcerative colitis,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
+citrobacter genus:544,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,ulcerative colitis,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
 citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st846,ulcerative colitis,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
 cronobacter genus:413496,"terminase_1, phage_portal, phage_capsid",enterobacteria phage mep235,atopic eczema,skin,increased,MicroPhenoDB
 cronobacter genus:413496,"terminase_1, phage_portal, phage_capsid",enterobacteria phage mep235,colorectal cancer,cancer,decreased,Peryton
@@ -66,130 +66,130 @@ cronobacter genus:413496,"terminase_1, phage_portal, phage_capsid",enterobacteri
 cronobacter sakazakii:28141,"terminase_1, phage_portal, phage_capsid",enterobacteria phage mep235,infectious meningitis,infectious,increased,MicroPhenoDB
 cronobacter sakazakii:28141,"terminase_1, phage_portal, phage_capsid",enterobacteria phage mep235,necrotizing enterocolitis,gastrointestinal,increased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,alcoholic pancreatitis,gastrointestinal,increased,disbiome/MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,alcoholic pancreatitis,gastrointestinal,increased,MicroPhenoDB
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,alcoholic pancreatitis,gastrointestinal,increased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,alcoholic pancreatitis,gastrointestinal,increased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,alcoholic pancreatitis,gastrointestinal,increased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,atopic eczema,skin,increased,MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,atopic eczema,skin,increased,MicroPhenoDB
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,atopic eczema,skin,increased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,atopic eczema,skin,increased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,atopic eczema,skin,increased,MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,chronic alcoholic pancreatitis,gastrointestinal,increased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,chronic alcoholic pancreatitis,gastrointestinal,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,alzheimer disease,neurological,decreased,Peryton
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,alzheimer disease,neurological,decreased,Peryton
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,alzheimer disease,neurological,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,alzheimer disease,neurological,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,alzheimer disease,neurological,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,ankylosing spondylitis,inflammatory,decreased,disbiome/MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ankylosing spondylitis,inflammatory,decreased,disbiome/MicroPhenoDB
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,ankylosing spondylitis,inflammatory,decreased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,ankylosing spondylitis,inflammatory,decreased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,ankylosing spondylitis,inflammatory,decreased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,chronic alcoholic pancreatitis,gastrointestinal,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,chronic alcoholic pancreatitis,gastrointestinal,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,chronic kidney disease,urinary,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,breast cancer,cancer,not-reported,Peryton
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,breast cancer,cancer,not-reported,Peryton
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,breast cancer,cancer,not-reported,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,breast cancer,cancer,not-reported,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,breast cancer,cancer,not-reported,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,chronic kidney disease,urinary,decreased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,chronic kidney disease,urinary,decreased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,chronic kidney disease,urinary,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,chronic kidney disease,urinary,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,cirrhosis,gastrointestinal,increased,disbiome/MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,cirrhosis,gastrointestinal,increased,disbiome/MicroPhenoDB
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,cirrhosis,gastrointestinal,increased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,cirrhosis,gastrointestinal,increased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,clonorchis sinensis infection,infectious,decreased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,clonorchis sinensis infection,infectious,decreased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,clonorchis sinensis infection,infectious,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,clonorchis sinensis infection,infectious,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,clonorchis sinensis infection,infectious,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,cirrhosis,gastrointestinal,increased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,coronary artery disease,cardiovascular,decreased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,coronary artery disease,cardiovascular,decreased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,coronary artery disease,cardiovascular,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,coronary artery disease,cardiovascular,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,coronary artery disease,cardiovascular,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,crohn disease,inflammatory,decreased,disbiome/MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,crohn disease,inflammatory,decreased,disbiome/MicroPhenoDB
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,crohn disease,inflammatory,decreased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,crohn disease,inflammatory,decreased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,crohn disease,inflammatory,decreased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,colorectal cancer,cancer,increased,Peryton
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,colorectal cancer,cancer,increased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,colorectal cancer,cancer,increased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,inflammatory bowel diseases,inflammatory,decreased,Peryton
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,inflammatory bowel diseases,inflammatory,decreased,Peryton
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,inflammatory bowel diseases,inflammatory,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,inflammatory bowel diseases,inflammatory,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,inflammatory bowel diseases,inflammatory,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,lung cancer,cancer,decreased,Peryton
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,lung cancer,cancer,decreased,Peryton
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,lung cancer,cancer,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,lung cancer,cancer,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,lung cancer,cancer,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,microscopic colitis,inflammatory,decreased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,microscopic colitis,inflammatory,decreased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,microscopic colitis,inflammatory,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,microscopic colitis,inflammatory,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,microscopic colitis,inflammatory,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,pulmonary arterial hypertension,cardiovascular,decreased,MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,pulmonary arterial hypertension,cardiovascular,decreased,MicroPhenoDB
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,pulmonary arterial hypertension,cardiovascular,decreased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,pulmonary arterial hypertension,cardiovascular,decreased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,pulmonary arterial hypertension,cardiovascular,decreased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,t2d with hypertension,cardiovascular,decreased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,t2d with hypertension,cardiovascular,decreased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,t2d with hypertension,cardiovascular,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,t2d with hypertension,cardiovascular,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,t2d with hypertension,cardiovascular,decreased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,uterine cervical cancer,cancer,decreased,Peryton
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,uterine cervical cancer,cancer,decreased,Peryton
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,uterine cervical cancer,cancer,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,uterine cervical cancer,cancer,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,uterine cervical cancer,cancer,decreased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,gestational diabetes,metabolic,increased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,gestational diabetes,metabolic,increased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,gestational diabetes,metabolic,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,gestational diabetes,metabolic,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,gestational diabetes,metabolic,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,hiv,infectious,increased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,hiv,infectious,increased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,hiv,infectious,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,hiv,infectious,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,hiv,infectious,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,hypertension,cardiovascular,increased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,hypertension,cardiovascular,increased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,hypertension,cardiovascular,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,hypertension,cardiovascular,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,hypertension,cardiovascular,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,infantile eczema,skin,increased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,infantile eczema,skin,increased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,infantile eczema,skin,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,infantile eczema,skin,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,infantile eczema,skin,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,irritable bowel syndrome,gastrointestinal,increased,disbiome/Peryton
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,irritable bowel syndrome,gastrointestinal,increased,disbiome/Peryton
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,irritable bowel syndrome,gastrointestinal,increased,disbiome/Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,irritable bowel syndrome,gastrointestinal,increased,disbiome/Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,irritable bowel syndrome,gastrointestinal,increased,disbiome/Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,ischemia,cardiovascular,increased,MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ischemia,cardiovascular,increased,MicroPhenoDB
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,ischemia,cardiovascular,increased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,ischemia,cardiovascular,increased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,ischemia,cardiovascular,increased,MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,necrotizing enterocolitis,gastrointestinal,increased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,necrotizing enterocolitis,gastrointestinal,increased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,necrotizing enterocolitis,gastrointestinal,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,necrotizing enterocolitis,gastrointestinal,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,necrotizing enterocolitis,gastrointestinal,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,pancreatic cancer,cancer,increased,disbiome/MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,pancreatic cancer,cancer,increased,disbiome/MicroPhenoDB
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,pancreatic cancer,cancer,increased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,pancreatic cancer,cancer,increased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,pancreatic cancer,cancer,increased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,pharyngeal cancer,cancer,increased,Peryton
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,pharyngeal cancer,cancer,increased,Peryton
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,pharyngeal cancer,cancer,increased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,pharyngeal cancer,cancer,increased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,pharyngeal cancer,cancer,increased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,primary liver cancer,cancer,increased,disbiome
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,primary liver cancer,cancer,increased,disbiome
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,primary liver cancer,cancer,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,primary liver cancer,cancer,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,primary liver cancer,cancer,increased,disbiome
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,transient ischemic attack,cardiovascular,increased,disbiome/MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,transient ischemic attack,cardiovascular,increased,disbiome/MicroPhenoDB
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,transient ischemic attack,cardiovascular,increased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,transient ischemic attack,cardiovascular,increased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,transient ischemic attack,cardiovascular,increased,disbiome/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,type 1 diabetes,metabolic,increased,disbiome/HMDAD/MicroPhenoDB
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,type 1 diabetes,metabolic,increased,disbiome/HMDAD/MicroPhenoDB
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,type 1 diabetes,metabolic,increased,disbiome/HMDAD/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,type 1 diabetes,metabolic,increased,disbiome/HMDAD/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,type 1 diabetes,metabolic,increased,disbiome/HMDAD/MicroPhenoDB
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",escherichia phage henu7,ulcerative colitis,inflammatory,increased,Peryton
-enterobacter genus:547,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ulcerative colitis,inflammatory,increased,Peryton
+enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,ulcerative colitis,inflammatory,increased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 2ax_6,ulcerative colitis,inflammatory,increased,Peryton
 enterobacter genus:547,"terminase_1, phage_portal, phage_capsid",uc phage clone 7s_14,ulcerative colitis,inflammatory,increased,Peryton
-enterobacter hormaechei:158836,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,autism,neurological,increased,disbiome/MicroPhenoDB
-enterobacter hormaechei:158836,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,necrotizing enterocolitis,gastrointestinal,decreased,HMDAD/MicroPhenoDB
+enterobacter hormaechei:158836,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,autism,neurological,increased,disbiome/MicroPhenoDB
+enterobacter hormaechei:158836,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,necrotizing enterocolitis,gastrointestinal,decreased,HMDAD/MicroPhenoDB
 escherichia albertii:208962,"terminase_1, phage_portal, phage_capsid",enterobacteria phage sfi,crohn disease,inflammatory,increased,Peryton
 escherichia albertii:208962,"terminase_1, phage_portal, phage_capsid",salmonella phage st64b,crohn disease,inflammatory,increased,Peryton
 escherichia albertii:208962,"terminase_1, phage_portal, phage_capsid",shigella phage sfii,crohn disease,inflammatory,increased,Peryton
@@ -568,16 +568,91 @@ pediococcus genus:1253,"hnh, phage_portal, phage_capsid",lactobacillus phage sha
 pediococcus genus:1253,"hnh, phage_portal, phage_capsid",lactobacillus phage sha1,irritable bowel syndrome,gastrointestinal,not-reported,Peryton
 pediococcus genus:1253,"hnh, phage_portal, phage_capsid",lactobacillus phage sha1,type 2 diabetes,metabolic,decreased,disbiome
 pediococcus pentosaceus:1255,"hnh, phage_portal, phage_capsid",lactobacillus phage sha1,chronic rhinosinusitis,inflammatory,decreased,disbiome/MicroPhenoDB
-salmonella enterica:28901,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,breast cancer,cancer,increased,disbiome
-salmonella enterica:28901,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
-salmonella enterica:28901,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,crohn disease,inflammatory,increased,disbiome/MicroPhenoDB
-salmonella enterica:28901,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,salmonella gastroenteritis,gastrointestinal,increased,MicroPhenoDB
-salmonella genus:590,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,celiac disease,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
-salmonella genus:590,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
-salmonella genus:590,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,hiv,infectious,increased,disbiome/MicroPhenoDB
-salmonella genus:590,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,hypertension,cardiovascular,increased,disbiome/MicroPhenoDB
-salmonella genus:590,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,parkinson disease,neurological,increased,disbiome/Peryton
-salmonella genus:590,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,preeclampsia,reproductive,increased,disbiome/MicroPhenoDB
-salmonella genus:590,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,primary biliary cholangitis,inflammatory,increased,disbiome
-salmonella genus:590,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,type 1 diabetes,metabolic,increased,HMDAD/MicroPhenoDB
-salmonella genus:590,"terminase_1, phage_portal, phage_capsid/phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,decreased,disbiome
+salmonella enterica:28901,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,breast cancer,cancer,increased,disbiome
+salmonella enterica:28901,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
+salmonella enterica:28901,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,crohn disease,inflammatory,increased,disbiome/MicroPhenoDB
+salmonella enterica:28901,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,salmonella gastroenteritis,gastrointestinal,increased,MicroPhenoDB
+salmonella genus:590,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,celiac disease,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
+salmonella genus:590,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
+salmonella genus:590,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,hiv,infectious,increased,disbiome/MicroPhenoDB
+salmonella genus:590,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,hypertension,cardiovascular,increased,disbiome/MicroPhenoDB
+salmonella genus:590,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,parkinson disease,neurological,increased,disbiome/Peryton
+salmonella genus:590,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,preeclampsia,reproductive,increased,disbiome/MicroPhenoDB
+salmonella genus:590,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,primary biliary cholangitis,inflammatory,increased,disbiome
+salmonella genus:590,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,type 1 diabetes,metabolic,increased,HMDAD/MicroPhenoDB
+salmonella genus:590,"terminase_1, phage_portal, phage_capsid",klebsiella phage st13,colorectal cancer,cancer,decreased,disbiome
+citrobacter amalonaticus:35703,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,bacteriemia,blood,increased,MicroPhenoDB
+citrobacter amalonaticus:35703,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,urinary tract infection,urinary,increased,MicroPhenoDB
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ankylosing spondylitis,inflammatory,decreased,disbiome/MicroPhenoDB
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,chronic obstructive pulmonary disease,respiratory,decreased,disbiome/MicroPhenoDB
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,decreased,Peryton
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,coronary artery disease,cardiovascular,decreased,disbiome
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,crohn disease,inflammatory,decreased,disbiome/Peryton
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,alcoholism,general,increased,disbiome
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,irritable bowel syndrome,gastrointestinal,decreased,disbiome/Peryton
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,non-alcoholic fatty liver disease,metabolic,decreased,disbiome
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,bacterial vaginosis,infectious,increased,disbiome/MicroPhenoDB
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,chronic kidney disease,urinary,increased,disbiome
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,clostridium difficile infection,infectious,increased,disbiome
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,crohn disease,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,gastric cancer,cancer,increased,disbiome/MicroPhenoDB
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,gastroenteritis,infectious,increased,disbiome/MicroPhenoDB
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,hiv,infectious,increased,disbiome/MicroPhenoDB
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,irritable bowel syndrome,gastrointestinal,increased,disbiome
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ischemia,cardiovascular,increased,MicroPhenoDB
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,mouth cancer,cancer,increased,Peryton
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,necrotizing enterocolitis,gastrointestinal,increased,disbiome/HMDAD/MicroPhenoDB
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,parkinson disease,neurological,increased,disbiome/Peryton
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,pouchitis,inflammatory,increased,disbiome/MicroPhenoDB
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,primary biliary cholangitis,inflammatory,increased,disbiome
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,short bowel syndrome,gastrointestinal,increased,disbiome
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,systemic sclerosis,inflammatory,increased,disbiome
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,type 1 diabetes,metabolic,increased,HMDAD
+citrobacter genus:544,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ulcerative colitis,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,alcoholic pancreatitis,gastrointestinal,increased,MicroPhenoDB
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,atopic eczema,skin,increased,MicroPhenoDB
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,chronic alcoholic pancreatitis,gastrointestinal,increased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,alzheimer disease,neurological,decreased,Peryton
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ankylosing spondylitis,inflammatory,decreased,disbiome/MicroPhenoDB
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,breast cancer,cancer,not-reported,Peryton
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,chronic kidney disease,urinary,decreased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,cirrhosis,gastrointestinal,increased,disbiome/MicroPhenoDB
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,clonorchis sinensis infection,infectious,decreased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,coronary artery disease,cardiovascular,decreased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,crohn disease,inflammatory,decreased,disbiome/MicroPhenoDB
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,inflammatory bowel diseases,inflammatory,decreased,Peryton
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,lung cancer,cancer,decreased,Peryton
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,microscopic colitis,inflammatory,decreased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,pulmonary arterial hypertension,cardiovascular,decreased,MicroPhenoDB
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,t2d with hypertension,cardiovascular,decreased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,uterine cervical cancer,cancer,decreased,Peryton
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,gestational diabetes,metabolic,increased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,hiv,infectious,increased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,hypertension,cardiovascular,increased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,infantile eczema,skin,increased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,irritable bowel syndrome,gastrointestinal,increased,disbiome/Peryton
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ischemia,cardiovascular,increased,MicroPhenoDB
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,necrotizing enterocolitis,gastrointestinal,increased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,pancreatic cancer,cancer,increased,disbiome/MicroPhenoDB
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,pharyngeal cancer,cancer,increased,Peryton
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,primary liver cancer,cancer,increased,disbiome
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,transient ischemic attack,cardiovascular,increased,disbiome/MicroPhenoDB
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,type 1 diabetes,metabolic,increased,disbiome/HMDAD/MicroPhenoDB
+enterobacter genus:547,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,ulcerative colitis,inflammatory,increased,Peryton
+enterobacter hormaechei:158836,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,autism,neurological,increased,disbiome/MicroPhenoDB
+enterobacter hormaechei:158836,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,necrotizing enterocolitis,gastrointestinal,decreased,HMDAD/MicroPhenoDB
+salmonella enterica:28901,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,breast cancer,cancer,increased,disbiome
+salmonella enterica:28901,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
+salmonella enterica:28901,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,crohn disease,inflammatory,increased,disbiome/MicroPhenoDB
+salmonella enterica:28901,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,salmonella gastroenteritis,gastrointestinal,increased,MicroPhenoDB
+salmonella genus:590,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,celiac disease,inflammatory,increased,disbiome/MicroPhenoDB/Peryton
+salmonella genus:590,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,increased,Peryton
+salmonella genus:590,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,hiv,infectious,increased,disbiome/MicroPhenoDB
+salmonella genus:590,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,hypertension,cardiovascular,increased,disbiome/MicroPhenoDB
+salmonella genus:590,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,parkinson disease,neurological,increased,disbiome/Peryton
+salmonella genus:590,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,preeclampsia,reproductive,increased,disbiome/MicroPhenoDB
+salmonella genus:590,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,primary biliary cholangitis,inflammatory,increased,disbiome
+salmonella genus:590,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,type 1 diabetes,metabolic,increased,HMDAD/MicroPhenoDB
+salmonella genus:590,"phage_capsid, phage_portal, terminase_1",klebsiella phage st13,colorectal cancer,cancer,decreased,disbiome

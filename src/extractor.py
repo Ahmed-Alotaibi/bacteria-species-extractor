@@ -183,10 +183,19 @@ class Bacteria:
           pattern = None
           for pat, bacteriophage in self.patterns.items():
             if self.chosen_phage in bacteriophage:
+
+              # If a phage (namely. Klebsiella-ST13) is a combination of patterns then add it as one of each pattern.
+              # This is done to ease calculations in spreadsheets.
               if pattern is not None:
-                pattern += f'/{pat}'
-              else:
-                pattern = pat
+                data.append([row[data_keys["microbe"]].lower(),     # Bacterial Species
+                             pattern,                               # Genomic Pattern
+                             self.chosen_phage,                     # Connected Phage
+                             row[data_keys["disease"]].lower(),     # Human Disease
+                             row[data_keys["position"]].lower(),    # Diseases Category
+                             row[data_keys["evidence"]].lower(),    # Abundance Change
+                             path.splitext(path.basename(file))[0]] # Source Database
+                )
+              pattern = pat
 
           # Bacterial Species    Genomic Pattern    Connected Phage    Human Disease    Disease Category    Abundance Change    Source Database
           data.append([row[data_keys["microbe"]].lower(),     # Bacterial Species 
